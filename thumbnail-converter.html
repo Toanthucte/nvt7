@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SVG to PNG Converter - nvt7 Thumbnail</title>
+  <style>
+    body {
+      font-family: 'Inter Tight', sans-serif;
+      background: #f5f7fa;
+      padding: 2rem;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 2rem;
+    }
+    
+    h1 {
+      color: #023047;
+      text-align: center;
+    }
+    
+    .container {
+      background: white;
+      padding: 2rem;
+      border-radius: 16px;
+      box-shadow: 0 8px 32px rgba(0,0,0,0.1);
+      max-width: 1200px;
+    }
+    
+    #preview {
+      width: 100%;
+      border: 2px solid #219ebc;
+      border-radius: 8px;
+      margin: 1rem 0;
+    }
+    
+    .buttons {
+      display: flex;
+      gap: 1rem;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+    
+    button {
+      padding: 1rem 2rem;
+      font-size: 1rem;
+      font-weight: 600;
+      border: none;
+      border-radius: 8px;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    }
+    
+    .btn-convert {
+      background: linear-gradient(135deg, #219ebc, #023047);
+      color: white;
+    }
+    
+    .btn-convert:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 6px 20px rgba(33, 158, 188, 0.4);
+    }
+    
+    .btn-download {
+      background: linear-gradient(135deg, #06d6a0, #1b9aaa);
+      color: white;
+    }
+    
+    .btn-download:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 6px 20px rgba(6, 214, 160, 0.4);
+    }
+    
+    .info {
+      background: #e7f3ff;
+      padding: 1.5rem;
+      border-radius: 8px;
+      border-left: 4px solid #219ebc;
+      margin: 1rem 0;
+    }
+    
+    .info h3 {
+      color: #023047;
+      margin-top: 0;
+    }
+    
+    .info ul {
+      margin: 0;
+      padding-left: 1.5rem;
+    }
+    
+    .info li {
+      margin: 0.5rem 0;
+      color: #495057;
+    }
+    
+    canvas {
+      display: none;
+    }
+    
+    .success {
+      background: #d4edda;
+      color: #155724;
+      padding: 1rem;
+      border-radius: 8px;
+      border-left: 4px solid #28a745;
+      display: none;
+      margin-top: 1rem;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>🖼️ Tạo Thumbnail PNG cho nvt7</h1>
+    
+    <div class="info">
+      <h3>📌 Hướng dẫn sử dụng:</h3>
+      <ul>
+        <li><strong>Bước 1:</strong> Nhấn nút "Convert SVG to PNG" để chuyển đổi</li>
+        <li><strong>Bước 2:</strong> Nhấn "Download PNG" để tải ảnh về</li>
+        <li><strong>Bước 3:</strong> Upload file PNG lên GitHub (folder assets/)</li>
+        <li><strong>Bước 4:</strong> Cập nhật URL trong meta tags nếu cần</li>
+      </ul>
+    </div>
+    
+    <img id="preview" src="assets/og-image.svg" alt="Preview">
+    
+    <div class="buttons">
+      <button class="btn-convert" onclick="convertToPNG()">
+        🔄 Convert SVG to PNG
+      </button>
+      <button class="btn-download" id="downloadBtn" onclick="downloadPNG()" disabled>
+        📥 Download PNG (1200x630)
+      </button>
+    </div>
+    
+    <div class="success" id="successMsg">
+      ✅ Chuyển đổi thành công! Bạn có thể tải xuống ngay bây giờ.
+    </div>
+    
+    <canvas id="canvas" width="1200" height="630"></canvas>
+  </div>
+  
+  <div class="container">
+    <h2 style="color: #023047;">📝 Thông tin kỹ thuật</h2>
+    <div class="info">
+      <h3>🎨 Thumbnail Specs:</h3>
+      <ul>
+        <li><strong>Kích thước:</strong> 1200x630px (tỷ lệ 1.91:1)</li>
+        <li><strong>Format gốc:</strong> SVG (vector)</li>
+        <li><strong>Format xuất:</strong> PNG (raster)</li>
+        <li><strong>Sử dụng cho:</strong> Open Graph (Facebook, LinkedIn, Discord...)</li>
+        <li><strong>File size:</strong> ~50-100KB (sau khi nén)</li>
+      </ul>
+    </div>
+    
+    <div class="info">
+      <h3>🔧 Cách update vào project:</h3>
+      <ol style="padding-left: 1.5rem; color: #495057;">
+        <li>Download file PNG từ tool này</li>
+        <li>Đổi tên thành <code>og-image.png</code></li>
+        <li>Copy vào folder <code>assets/</code></li>
+        <li>Update trong <code>index.html</code>:</li>
+      </ol>
+      <pre style="background: #2c3e50; color: #ecf0f1; padding: 1rem; border-radius: 6px; overflow-x: auto; font-size: 0.9rem;">
+&lt;meta property="og:image" content="https://toanthucte.github.io/nvt7/assets/og-image.png" /&gt;
+&lt;meta name="twitter:image" content="https://toanthucte.github.io/nvt7/assets/og-image.png" /&gt;</pre>
+    </div>
+  </div>
+
+  <script>
+    let pngDataUrl = null;
+    
+    async function convertToPNG() {
+      const img = document.getElementById('preview');
+      const canvas = document.getElementById('canvas');
+      const ctx = canvas.getContext('2d');
+      const downloadBtn = document.getElementById('downloadBtn');
+      const successMsg = document.getElementById('successMsg');
+      
+      // Create a new image from SVG
+      const svgImg = new Image();
+      svgImg.crossOrigin = 'anonymous';
+      
+      // Convert SVG to data URL
+      const response = await fetch('assets/og-image.svg');
+      const svgText = await response.text();
+      const svgBlob = new Blob([svgText], { type: 'image/svg+xml;charset=utf-8' });
+      const url = URL.createObjectURL(svgBlob);
+      
+      svgImg.onload = function() {
+        // Draw on canvas
+        ctx.fillStyle = '#ffffff';
+        ctx.fillRect(0, 0, canvas.width, canvas.height);
+        ctx.drawImage(svgImg, 0, 0, 1200, 630);
+        
+        // Convert to PNG
+        pngDataUrl = canvas.toDataURL('image/png');
+        
+        // Enable download button
+        downloadBtn.disabled = false;
+        successMsg.style.display = 'block';
+        
+        // Update preview
+        img.src = pngDataUrl;
+        
+        // Clean up
+        URL.revokeObjectURL(url);
+        
+        console.log('✅ Conversion complete!');
+      };
+      
+      svgImg.onerror = function() {
+        alert('❌ Lỗi: Không thể load SVG. Vui lòng kiểm tra file assets/og-image.svg');
+      };
+      
+      svgImg.src = url;
+    }
+    
+    function downloadPNG() {
+      if (!pngDataUrl) {
+        alert('Vui lòng convert SVG trước!');
+        return;
+      }
+      
+      const link = document.createElement('a');
+      link.download = 'og-image.png';
+      link.href = pngDataUrl;
+      link.click();
+      
+      console.log('📥 Downloaded: og-image.png');
+    }
+  </script>
+</body>
+</html>
