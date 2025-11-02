@@ -1,0 +1,162 @@
+[
+  {
+    "id": "el-1",
+    "symbol": "H",
+    "name": "Hydrogen (Hydro)",
+    "atomic_number": 1,
+    "atomic_mass": 1,
+    "shells": [1]
+  },
+  {
+    "id": "el-2",
+    "symbol": "He",
+    "name": "Helium (Heli)",
+    "atomic_number": 2,
+    "atomic_mass": 4,
+    "shells": [2]
+  },
+  {
+    "id": "el-3",
+    "symbol": "Li",
+    "name": "Lithium (Liti)",
+    "atomic_number": 3,
+    "atomic_mass": 7,
+    "shells": [2, 1]
+  },
+  {
+    "id": "el-4",
+    "symbol": "Be",
+    "name": "Beryllium (Beri)",
+    "atomic_number": 4,
+    "atomic_mass": 9,
+    "shells": [2, 2]
+  },
+  {
+    "id": "el-5",
+    "symbol": "B",
+    "name": "Boron (Bo)",
+    "atomic_number": 5,
+    "atomic_mass": 11,
+    "shells": [2, 3]
+  },
+  {
+    "id": "el-6",
+    "symbol": "C",
+    "name": "Carbon (Cacbon)",
+    "atomic_number": 6,
+    "atomic_mass": 12,
+    "shells": [2, 4]
+  },
+  {
+    "id": "el-7",
+    "symbol": "N",
+    "name": "Nitrogen (Nitơ)",
+    "atomic_number": 7,
+    "atomic_mass": 14,
+    "shells": [2, 5]
+  },
+  {
+    "id": "el-8",
+    "symbol": "O",
+    "name": "Oxygen (Oxy)",
+    "atomic_number": 8,
+    "atomic_mass": 16,
+    "shells": [2, 6]
+  },
+  {
+    "id": "el-9",
+    "symbol": "F",
+    "name": "Fluorine (Flo)",
+    "atomic_number": 9,
+    "atomic_mass": 19,
+    "shells": [2, 7]
+  },
+  {
+    "id": "el-10",
+    "symbol": "Ne",
+    "name": "Neon (Neon)",
+    "atomic_number": 10,
+    "atomic_mass": 20,
+    "shells": [2, 8]
+  },
+  {
+    "id": "el-11",
+    "symbol": "Na",
+    "name": "Sodium (Natri)",
+    "atomic_number": 11,
+    "atomic_mass": 23,
+    "shells": [2, 8, 1]
+  },
+  {
+    "id": "el-12",
+    "symbol": "Mg",
+    "name": "Magnesium (Magie)",
+    "atomic_number": 12,
+    "atomic_mass": 24,
+    "shells": [2, 8, 2]
+  },
+  {
+    "id": "el-13",
+    "symbol": "Al",
+    "name": "Aluminium (Nhôm)",
+    "atomic_number": 13,
+    "atomic_mass": 27,
+    "shells": [2, 8, 3]
+  },
+  {
+    "id": "el-14",
+    "symbol": "Si",
+    "name": "Silicon (Silic)",
+    "atomic_number": 14,
+    "atomic_mass": 28,
+    "shells": [2, 8, 4]
+  },
+  {
+    "id": "el-15",
+    "symbol": "P",
+    "name": "Phosphorus (Photpho)",
+    "atomic_number": 15,
+    "atomic_mass": 31,
+    "shells": [2, 8, 5]
+  },
+  {
+    "id": "el-16",
+    "symbol": "S",
+    "name": "Sulfur (Lưu huỳnh)",
+    "atomic_number": 16,
+    "atomic_mass": 32,
+    "shells": [2, 8, 6]
+  },
+  {
+    "id": "el-17",
+    "symbol": "Cl",
+    "name": "Chlorine (Clo)",
+    "atomic_number": 17,
+    "atomic_mass": 35,
+    "shells": [2, 8, 7]
+  },
+  {
+    "id": "el-18",
+    "symbol": "Ar",
+    "name": "Argon (Argon)",
+    "atomic_number": 18,
+    "atomic_mass": 40,
+    "shells": [2, 8, 8]
+  },
+  {
+    "id": "el-19",
+    "symbol": "K",
+    "name": "Potassium (Kali)",
+    "atomic_number": 19,
+    "atomic_mass": 39,
+    "shells": [2, 8, 8, 1]
+  },
+  {
+    "id": "el-20",
+    "symbol": "Ca",
+    "name": "Calcium (Canxi)",
+    "atomic_number": 20,
+    "atomic_mass": 40,
+    "shells": [2, 8, 8, 2]
+  }
+]

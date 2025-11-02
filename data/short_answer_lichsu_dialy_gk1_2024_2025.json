@@ -1,0 +1,30 @@
+[
+  {
+    "id": 24,
+    "type": "short-answer",
+    "topic": "Tây Âu - Phong kiến",
+    "question": "Nêu hai đặc điểm cơ bản của chế độ phong kiến Tây Âu.",
+    "answer": "Hai đặc điểm cơ bản của chế độ phong kiến Tây Âu: 1) Hệ thống phân cấp chặt chẽ dựa trên chế độ phong tặng đất đai và mối quan hệ chủ-tùy (vua-lãnh chúa-hiệp sĩ). 2) Kinh tế nông nghiệp tự cung tự cấp, lãnh chúa sở hữu ruộng đất, nông nô bị bóc lột nặng nề.",
+    "points": 0.5,
+    "keywords": ["phân cấp", "chủ tùy", "phong tặng đất", "nông nô", "lãnh chúa", "bóc lột"],
+    "rubric": {
+      "fullCredit": "0.5 điểm - Nêu được 2 đặc điểm rõ ràng: hệ thống phân cấp/chủ-tùy và nông nô bị bóc lột.",
+      "partialCredit": "0.25 điểm - Nêu được 1 đặc điểm hoặc nêu 2 đặc điểm nhưng chưa rõ ràng.",
+      "noCredit": "0 điểm - Không nêu được đặc điểm hoặc sai hoàn toàn."
+    }
+  },
+  {
+    "id": 25,
+    "type": "short-answer",
+    "topic": "Châu Âu - Liên minh châu Âu",
+    "question": "Nêu hai lợi ích chính mà Liên minh châu Âu mang lại cho các nước thành viên.",
+    "answer": "Hai lợi ích chính của EU: 1) Thúc đẩy hợp tác kinh tế, tạo thị trường chung rộng lớn, tăng cường sức mạnh kinh tế và cạnh tranh toàn cầu. 2) Đảm bảo an ninh, hòa bình, tự do đi lại và các quyền lợi cho công dân (tự do sinh sống, làm việc, học tập trong khu vực EU).",
+    "points": 0.5,
+    "keywords": ["kinh tế", "thị trường chung", "hợp tác", "an ninh", "hòa bình", "tự do đi lại", "quyền lợi công dân"],
+    "rubric": {
+      "fullCredit": "0.5 điểm - Nêu được 2 lợi ích rõ ràng về kinh tế và chính trị/xã hội.",
+      "partialCredit": "0.25 điểm - Nêu được 1 lợi ích hoặc nêu 2 lợi ích nhưng chưa rõ ràng.",
+      "noCredit": "0 điểm - Không nêu được lợi ích hoặc sai hoàn toàn."
+    }
+  }
+]

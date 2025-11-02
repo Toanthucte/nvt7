@@ -1,0 +1,200 @@
+[
+  {
+    "id": 13,
+    "type": "true-false",
+    "question": "Xét tính đúng/sai của các phát biểu sau về quá trình hình thành chế độ phong kiến ở Tây Âu:",
+    "statements": [
+      {
+        "id": "a",
+        "text": "Sau khi Đế chế La Mã Tây suy vong (476), trên lãnh thổ Tây Âu xuất hiện nhiều vương quốc của các bộ lạc man di.",
+        "correct": true,
+        "explanation": "Đúng. Sau năm 476, các bộ lạc man di như người Gec-man, Ganh, Xắc-xông... đã lập nên nhiều vương quốc trên lãnh thổ cũ của La Mã."
+      },
+      {
+        "id": "b",
+        "text": "Lãnh địa phong kiến chỉ có hai giai cấp: lãnh chủ và nông nô.",
+        "correct": false,
+        "explanation": "Sai. Lãnh địa phong kiến có ba thành phần chính: đất của lãnh chủ, đất của nông nô, và đất công (rừng, đồng cỏ chung)."
+      },
+      {
+        "id": "c",
+        "text": "Sự ra đời của thành thị đã phá vỡ tính khép kín của nền kinh tế lãnh địa.",
+        "correct": true,
+        "explanation": "Đúng. Thành thị trung đại trở thành trung tâm thương mại, thủ công nghiệp, phá vỡ tính tự cung tự cấp của lãnh địa."
+      },
+      {
+        "id": "d",
+        "text": "Quý tộc quân sự là giai cấp thống trị trong xã hội phong kiến Tây Âu.",
+        "correct": true,
+        "explanation": "Đúng. Quý tộc quân sự (gồm vua, công tước, bá tước, hiệp sĩ...) nắm giữ quyền lực chính trị và quân sự, là giai cấp thống trị."
+      }
+    ],
+    "points": 0.5,
+    "level": "vận dụng"
+  },
+  {
+    "id": 14,
+    "type": "true-false",
+    "question": "Xét tính đúng/sai của các phát biểu sau về các cuộc đại phát kiến địa lí:",
+    "statements": [
+      {
+        "id": "a",
+        "text": "C. Cô-lôm-bô (Tây Ban Nha) phát hiện ra châu Mỹ năm 1492.",
+        "correct": true,
+        "explanation": "Đúng. Năm 1492, nhà hàng hải người Ý C. Cô-lôm-bô, phục vụ cho Tây Ban Nha, đã phát hiện ra châu Mỹ khi tìm đường sang Ấn Độ."
+      },
+      {
+        "id": "b",
+        "text": "Vác-cô đa Ga-ma (Bồ Đào Nha) tìm ra đường biển đến Ấn Độ năm 1498.",
+        "correct": true,
+        "explanation": "Đúng. Năm 1497-1498, nhà hàng hải Bồ Đào Nha Vác-cô đa Ga-ma đã tìm ra con đường biển vòng qua mũi Hảo Vọng (châu Phi) để đến Ấn Độ."
+      },
+      {
+        "id": "c",
+        "text": "F. Ma-gel-lan hoàn thành chuyến đi vòng quanh thế giới đầu tiên năm 1522.",
+        "correct": false,
+        "explanation": "Sai. Chính thuyền trưởng Ê-can-nô đã hoàn thành chuyến đi vòng quanh thế giới năm 1522. F. Ma-gel-lan đã tử trận ở Philippines năm 1521 trước khi hoàn thành hành trình."
+      },
+      {
+        "id": "d",
+        "text": "Các cuộc phát kiến địa lí chỉ mang lại lợi ích cho châu Âu mà không ảnh hưởng gì đến các châu lục khác.",
+        "correct": false,
+        "explanation": "Sai. Các cuộc phát kiến địa lí đã mở ra thời kỳ xâm lược thuộc địa, gây ra nhiều hậu quả nặng nề cho người dân châu Phi, châu Mỹ, châu Á."
+      }
+    ],
+    "points": 0.5,
+    "level": "thông hiểu"
+  },
+  {
+    "id": 15,
+    "type": "true-false",
+    "question": "Xét tính đúng/sai của các phát biểu sau về phong trào văn hóa Phục Hưng:",
+    "statements": [
+      {
+        "id": "a",
+        "text": "Phong trào văn hóa Phục Hưng là phong trào văn hóa, tư tưởng của giai cấp tư sản mới nổi.",
+        "correct": true,
+        "explanation": "Đúng. Phong trào Phục Hưng phản ánh nguyện vọng và lợi ích của giai cấp tư sản đang hình thành, phản đối tư tưởng thần quyền thời trung cổ."
+      },
+      {
+        "id": "b",
+        "text": "Phong trào Phục Hưng đề cao chủ nghĩa nhân văn, tôn vinh con người và lý trí.",
+        "correct": true,
+        "explanation": "Đúng. Tư tưởng nhân văn là nội dung cốt lõi của Phục Hưng, khẳng định giá trị con người, phản đối chủ nghĩa thần quyền."
+      },
+      {
+        "id": "c",
+        "text": "Ga-li-lê (Galileo Galilei) là nhà khoa học nổi tiếng trong lĩnh vực thiên văn học.",
+        "correct": true,
+        "explanation": "Đúng. Ga-li-lê đã chế tạo kính thiên văn, khám phá các vệ tinh của Mộc tinh, ủng hộ thuyết nhật tâm của Cô-péc-nic."
+      },
+      {
+        "id": "d",
+        "text": "Phong trào Phục Hưng chỉ phát triển ở Ý và không lan rộng ra các nước châu Âu khác.",
+        "correct": false,
+        "explanation": "Sai. Phong trào Phục Hưng bắt đầu từ Ý (thế kỷ XIV) nhưng sau đó đã lan rộng ra nhiều nước châu Âu như Pháp, Anh, Tây Ban Nha, Đức..."
+      }
+    ],
+    "points": 0.5,
+    "level": "vận dụng"
+  },
+  {
+    "id": 16,
+    "type": "true-false",
+    "question": "Xét tính đúng/sai của các phát biểu sau về đặc điểm thiên nhiên châu Âu:",
+    "statements": [
+      {
+        "id": "a",
+        "text": "Châu Âu và châu Á cùng nằm trên lục địa Á-Âu.",
+        "correct": true,
+        "explanation": "Đúng. Châu Âu nằm ở phía tây của lục địa Á-Âu, ngăn cách với châu Á bởi dãy núi U-ran và sông U-ran."
+      },
+      {
+        "id": "b",
+        "text": "Đường bờ biển châu Âu dài khoảng 38.000 km, có nhiều vịnh, hải đảo và bán đảo.",
+        "correct": true,
+        "explanation": "Đúng. Bờ biển châu Âu rất dài và uốn khúc, tạo điều kiện thuận lợi cho giao thương biển và đánh bắt hải sản."
+      },
+      {
+        "id": "c",
+        "text": "Châu Âu giáp Biển Bắc và Đại Tây Dương ở phía tây.",
+        "correct": true,
+        "explanation": "Đúng. Phía tây châu Âu giáp Đại Tây Dương và Biển Bắc, tạo khí hậu ôn hòa ẩm ướt."
+      },
+      {
+        "id": "d",
+        "text": "Dãy núi U-ran nằm ở phía nam châu Âu.",
+        "correct": false,
+        "explanation": "Sai. Dãy núi U-ran nằm ở phía đông châu Âu, là ranh giới tự nhiên giữa châu Âu và châu Á."
+      }
+    ],
+    "points": 0.5,
+    "level": "thông hiểu"
+  },
+  {
+    "id": 17,
+    "type": "true-false",
+    "question": "Xét tính đúng/sai của các phát biểu sau về dân cư và xã hội châu Âu:",
+    "statements": [
+      {
+        "id": "a",
+        "text": "Năm 2020, tỷ lệ dân số từ 0-14 tuổi ở châu Âu chiếm khoảng 16%.",
+        "correct": true,
+        "explanation": "Đúng. Tỷ lệ trẻ em (0-14 tuổi) ở châu Âu chỉ chiếm khoảng 16%, thấp hơn nhiều so với mức trung bình thế giới."
+      },
+      {
+        "id": "b",
+        "text": "Tình trạng dân số già ở châu Âu chủ yếu do tỷ lệ sinh thấp và tuổi thọ cao.",
+        "correct": true,
+        "explanation": "Đúng. Dân số châu Âu già hóa nhanh do tỷ lệ sinh giảm và tuổi thọ trung bình cao (khoảng 80 tuổi)."
+      },
+      {
+        "id": "c",
+        "text": "Dân cư châu Âu có trình độ học vấn thấp, tỷ lệ biết chữ dưới 80%.",
+        "correct": false,
+        "explanation": "Sai. Châu Âu có hệ thống giáo dục phát triển, tỷ lệ biết chữ gần 100%, trình độ học vấn rất cao."
+      },
+      {
+        "id": "d",
+        "text": "Tỷ lệ nam/nữ ở châu Âu là 94/100 (năm 2020).",
+        "correct": true,
+        "explanation": "Đúng. Châu Âu có tình trạng mất cân bằng giới tính với số lượng phụ nữ nhiều hơn nam giới (94 nam/100 nữ)."
+      }
+    ],
+    "points": 0.5,
+    "level": "thông hiểu"
+  },
+  {
+    "id": 18,
+    "type": "true-false",
+    "question": "Xét tính đúng/sai của các phát biểu sau về Liên minh châu Âu (EU):",
+    "statements": [
+      {
+        "id": "a",
+        "text": "Tiền thân của EU là Cộng đồng Kinh tế châu Âu (EEC) được thành lập năm 1957.",
+        "correct": true,
+        "explanation": "Đúng. EEC được thành lập năm 1957 bởi 6 nước: Pháp, Tây Đức, Ý, Hà Lan, Bỉ, Lúc-xăm-bua, sau này phát triển thành EU."
+      },
+      {
+        "id": "b",
+        "text": "Trụ sở chính của EU đặt tại Brussels, Bỉ.",
+        "correct": true,
+        "explanation": "Đúng. Brussels (Bỉ) là trụ sở chính của các cơ quan quan trọng nhất của EU như Ủy ban châu Âu, Hội đồng châu Âu."
+      },
+      {
+        "id": "c",
+        "text": "Hiện nay EU có 28 quốc gia thành viên.",
+        "correct": false,
+        "explanation": "Sai. Sau khi Anh rời EU (Brexit - 2020), EU hiện có 27 quốc gia thành viên (tính đến năm 2025)."
+      },
+      {
+        "id": "d",
+        "text": "EU là một trong bốn trung tâm kinh tế lớn nhất thế giới.",
+        "correct": true,
+        "explanation": "Đúng. EU là một trong bốn trung tâm kinh tế lớn nhất thế giới (cùng với Mỹ, Trung Quốc, Nhật Bản), với GDP khoảng 17 nghìn tỷ USD (2020)."
+      }
+    ],
+    "points": 0.5,
+    "level": "thông hiểu"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 21,
+    "type": "essay",
+    "question": "Nêu ý nghĩa của các cuộc đại phát kiến địa lí đối với châu Âu trong giai đoạn từ thế kỷ XV đến thế kỷ XVI.",
+    "points": 1.0,
+    "level": "thông hiểu",
+    "sampleAnswer": "Các cuộc đại phát kiến địa lí có ý nghĩa to lớn đối với châu Âu:\n\n1. **Về kinh tế**: \n- Mở rộng thị trường buôn bán, thúc đẩy thương mại phát triển\n- Châu Âu thu được nhiều tài nguyên, khoáng sản từ các thuộc địa\n- Tạo điều kiện cho chủ nghĩa tư bản phát triển nhanh chóng\n\n2. **Về chính trị - xã hội**:\n- Các nước châu Âu thiết lập hệ thống thuộc địa rộng lớn\n- Giai cấp tư sản ngày càng giàu có và có vai trò quan trọng\n\n3. **Về khoa học - văn hóa**:\n- Mở rộng hiểu biết về địa lí, tự nhiên thế giới\n- Thúc đẩy khoa học kỹ thuật phát triển (đóng tàu, hàng hải...)\n- Thúc đẩy giao lưu văn hóa giữa các châu lục",
+    "rubric": {
+      "excellent": "Trả lời đầy đủ 3 mặt (kinh tế, chính trị-xã hội, khoa học-văn hóa) với giải thích cụ thể (1.0 điểm)",
+      "good": "Trả lời đủ 2-3 mặt nhưng chưa đầy đủ hoặc thiếu giải thích (0.75 điểm)",
+      "fair": "Chỉ nêu được 1-2 ý nghĩa đơn giản (0.5 điểm)",
+      "poor": "Trả lời chưa đúng trọng tâm hoặc quá sơ sài (0.25 điểm)"
+    }
+  },
+  {
+    "id": 22,
+    "type": "essay",
+    "question": "Phân tích sự biến đổi quan trọng trong kinh tế - xã hội Tây Âu từ thế kỷ XIII đến thế kỷ XVI.",
+    "points": 1.0,
+    "level": "vận dụng",
+    "sampleAnswer": "Từ thế kỷ XIII đến XVI, kinh tế - xã hội Tây Âu có những biến đổi quan trọng:\n\n**1. Về kinh tế:**\n- Thành thị phát triển mạnh mẽ, trở thành trung tâm thương mại và thủ công nghiệp\n- Sản xuất hàng hóa phát triển, xuất hiện các xưởng thủ công manufactor\n- Quan hệ sản xuất tư bản chủ nghĩa manh nha hình thành\n- Nền kinh tế lãnh địa khép kín bị phá vỡ\n\n**2. Về xã hội:**\n- Giai cấp tư sản mới nổi (thương nhân, chủ xưởng) ngày càng giàu có\n- Giai cấp công nhân thuê (proletariat) bắt đầu hình thành\n- Nông dân được giải phóng dần, nhiều người rời lãnh địa vào thành thị\n- Quyền lực quý tộc phong kiến bị suy yếu\n\n**3. Ý nghĩa:**\n- Tạo tiền đề cho sự ra đời và phát triển của chủ nghĩa tư bản\n- Làm nền tảng cho các cuộc cách mạng tư sản sau này",
+    "rubric": {
+      "excellent": "Phân tích đầy đủ biến đổi về kinh tế và xã hội, nêu được ý nghĩa (1.0 điểm)",
+      "good": "Phân tích được 2 mặt kinh tế-xã hội nhưng chưa đầy đủ (0.75 điểm)",
+      "fair": "Chỉ phân tích được một mặt hoặc thiếu ví dụ cụ thể (0.5 điểm)",
+      "poor": "Trả lời chung chung, thiếu phân tích (0.25 điểm)"
+    }
+  },
+  {
+    "id": 23,
+    "type": "essay",
+    "question": "Dựa vào bảng số liệu dân số các châu lục năm 2020, hãy nhận xét về qui mô dân số và tình hình tăng trưởng dân số châu Âu so với các châu lục khác.<br><br><div class='data-table-container'><table class='data-table'><caption><strong>Bảng: Dân số các châu lục năm 2020</strong></caption><thead><tr><th>Châu lục</th><th>Dân số (triệu người)</th></tr></thead><tbody><tr><td>Châu Á</td><td>4.695</td></tr><tr class='highlight'><td>Châu Âu</td><td>745</td></tr><tr><td>Châu Phi</td><td>1.394</td></tr><tr><td>Châu Mỹ</td><td>1.031</td></tr><tr><td>Châu Đại Dương</td><td>44</td></tr><tr class='total-row'><td><strong>Toàn cầu</strong></td><td><strong>7.909</strong></td></tr></tbody></table><p class='table-source'><em>(Nguồn: Liên hợp quốc, 2022)</em></p></div>",
+    "points": 0.5,
+    "level": "thông hiểu",
+    "sampleAnswer": "**Nhận xét về dân số châu Âu năm 2020:**\n\n**1. Về qui mô:**\n- Châu Âu có 745 triệu người, chiếm khoảng 9,4% dân số toàn cầu\n- Đứng thứ 3 về dân số sau châu Á (4.695 triệu) và châu Phi (1.394 triệu)\n- Đông dân hơn châu Đại Dương (44 triệu) nhưng ít hơn châu Mỹ (1.031 triệu)\n\n**2. Về tốc độ tăng trưởng:**\n- Dân số châu Âu tăng rất chậm (từ 721 triệu năm 1990 lên 745 triệu năm 2020)\n- Tốc độ tăng dân số thấp nhất trong các châu lục (chỉ tăng 24 triệu người trong 30 năm)\n- So với châu Á tăng 1.552 triệu người và châu Phi tăng 752 triệu người trong cùng thời kỳ\n\n**3. Nguyên nhân:**\n- Tỷ lệ sinh thấp (dưới mức thay thế)\n- Dân số già hóa nhanh\n- Trình độ phát triển kinh tế - xã hội cao",
+    "rubric": {
+      "excellent": "Nhận xét đầy đủ qui mô, tốc độ tăng và nguyên nhân (0.5 điểm)",
+      "good": "Nhận xét được 2 trong 3 yếu tố trên (0.35-0.4 điểm)",
+      "fair": "Chỉ nhận xét đơn giản về qui mô hoặc tốc độ tăng (0.25 điểm)",
+      "poor": "Nhận xét sai hoặc không đúng trọng tâm (0-0.15 điểm)"
+    }
+  },
+  {
+    "id": 24,
+    "type": "essay",
+    "question": "Chứng minh rằng Liên minh châu Âu (EU) là một trong bốn trung tâm kinh tế lớn nhất thế giới. Nêu các thành tựu kinh tế tiêu biểu của EU.",
+    "points": 0.5,
+    "level": "vận dụng",
+    "sampleAnswer": "**Chứng minh EU là trung tâm kinh tế lớn nhất thế giới:**\n\n**1. Về quy mô kinh tế:**\n- GDP đạt khoảng 17 nghìn tỷ USD (2020), đứng thứ 2-3 thế giới\n- Là thị trường chung lớn với 27 quốc gia thành viên\n- Dân số khoảng 450 triệu người (sau khi Anh rời đi)\n\n**2. Các thành tựu kinh tế tiêu biểu:**\n\n*Về công nghiệp:*\n- Trung tâm công nghiệp lớn: ô tô (Đức), hàng không (Airbus), dược phẩm\n- Công nghệ cao phát triển: điện tử, viễn thông, năng lượng sạch\n\n*Về thương mại:*\n- Một trong những đối tác thương mại lớn nhất thế giới\n- Thị trường chung không có rào cản thuế quan nội bộ\n- Sử dụng đồng tiền chung Euro (19/27 nước)\n\n*Về dịch vụ:*\n- Trung tâm tài chính: London, Frankfurt, Paris\n- Du lịch phát triển: Pháp, Tây Ban Nha, Ý\n- Giáo dục và y tế hàng đầu thế giới\n\n**3. Kết luận:**\nVới qui mô GDP lớn, công nghiệp - dịch vụ phát triển và vai trò quan trọng trong thương mại quốc tế, EU xứng đáng là một trong bốn trung tâm kinh tế lớn nhất thế giới (cùng Mỹ, Trung Quốc, Nhật Bản).",
+    "rubric": {
+      "excellent": "Chứng minh logic với số liệu cụ thể, nêu đầy đủ các lĩnh vực (0.5 điểm)",
+      "good": "Chứng minh được nhưng thiếu một số yếu tố hoặc số liệu (0.35-0.4 điểm)",
+      "fair": "Nêu được một số thành tựu nhưng chưa chứng minh rõ (0.25 điểm)",
+      "poor": "Trả lời chung chung, không có dẫn chứng cụ thể (0-0.15 điểm)"
+    }
+  }
+]

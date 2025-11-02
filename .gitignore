@@ -1,0 +1,23 @@
+# Google Docs files
+*.gdoc
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Temporary files
+*.tmp
+*.temp
+~*
+
+# Windows shortcuts
+*.lnk

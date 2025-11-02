@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "type": "multiple-choice",
+    "topic": "Tây Âu - Phong kiến",
+    "question": "Chế độ phong kiến ở Tây Âu hình thành từ thế kỷ nào?",
+    "choices": ["Thế kỷ III", "Thế kỷ V", "Thế kỷ VII", "Thế kỷ IX"],
+    "answer": 1,
+    "explanation": "Chế độ phong kiến ở Tây Âu hình thành từ thế kỷ V, sau khi Đế chế La Mã Tây sụp đổ năm 476.",
+    "points": 0.25
+  },
+  {
+    "id": 2,
+    "type": "multiple-choice",
+    "topic": "Tây Âu - Phong kiến",
+    "question": "Giai cấp nào là giai cấp bị áp bức trong xã hội phong kiến Tây Âu?",
+    "choices": ["Nông nô", "Quý tộc", "Giáo sĩ", "Hiệp sĩ"],
+    "answer": 0,
+    "explanation": "Nông nô là giai cấp bị áp bức, phải lao động cho lãnh chúa, nộp tô thuế nặng nề.",
+    "points": 0.25
+  },
+  {
+    "id": 3,
+    "type": "multiple-choice",
+    "topic": "Tây Âu - Phong kiến",
+    "question": "Tổ chức nào giữ vai trò quan trọng nhất trong đời sống tinh thần xã hội phong kiến Tây Âu?",
+    "choices": ["Nhà nước", "Nhà thờ Công giáo", "Quân đội", "Hội đồng quý tộc"],
+    "answer": 1,
+    "explanation": "Nhà thờ Công giáo đóng vai trò quan trọng, giáo hoàng có quyền lực lớn.",
+    "points": 0.25
+  },
+  {
+    "id": 4,
+    "type": "multiple-choice",
+    "topic": "Tây Âu - Văn hóa Phục hưng",
+    "question": "Phong trào văn hóa Phục hưng bắt đầu từ nước nào?",
+    "choices": ["Pháp", "Anh", "Ý", "Tây Ban Nha"],
+    "answer": 2,
+    "explanation": "Phong trào Phục hưng bắt đầu từ Ý vào thế kỷ XIV-XV.",
+    "points": 0.25
+  },
+  {
+    "id": 5,
+    "type": "multiple-choice",
+    "topic": "Tây Âu - Văn hóa Phục hưng",
+    "question": "Họa sĩ nào là tác giả của bức tranh 'Nàng Mona Lisa'?",
+    "choices": ["Michelangelo", "Raphael", "Leonardo da Vinci", "Donatello"],
+    "answer": 2,
+    "explanation": "Leonardo da Vinci là tác giả của bức tranh 'Nàng Mona Lisa'.",
+    "points": 0.25
+  },
+  {
+    "id": 6,
+    "type": "multiple-choice",
+    "topic": "Tây Âu - Văn hóa Phục hưng",
+    "question": "Tác phẩm 'Romeo và Juliet' là của nhà văn nào?",
+    "choices": ["Dante", "Petrarca", "Shakespeare", "Cervantes"],
+    "answer": 2,
+    "explanation": "William Shakespeare là tác giả của 'Romeo và Juliet'.",
+    "points": 0.25
+  },
+  {
+    "id": 7,
+    "type": "multiple-choice",
+    "topic": "Châu Âu - Thiên nhiên",
+    "question": "Địa hình chủ yếu của châu Âu là gì?",
+    "choices": ["Núi cao và cao nguyên", "Đồng bằng và đồi thấp", "Sa mạc", "Sơn nguyên"],
+    "answer": 1,
+    "explanation": "Địa hình chủ yếu là đồng bằng và đồi thấp, chiếm 2/3 diện tích.",
+    "points": 0.25
+  },
+  {
+    "id": 8,
+    "type": "multiple-choice",
+    "topic": "Châu Âu - Thiên nhiên",
+    "question": "Dãy núi nào là ranh giới tự nhiên giữa châu Âu và châu Á?",
+    "choices": ["Dãy Himalaya", "Dãy Anpơ", "Dãy Ural", "Dãy Pyrenees"],
+    "answer": 2,
+    "explanation": "Dãy núi Ural là ranh giới tự nhiên giữa châu Âu và châu Á.",
+    "points": 0.25
+  },
+  {
+    "id": 9,
+    "type": "multiple-choice",
+    "topic": "Châu Âu - Thiên nhiên",
+    "question": "Khí hậu chủ yếu của châu Âu là gì?",
+    "choices": ["Khí hậu nhiệt đới", "Khí hậu ôn đới", "Khí hậu cực", "Khí hậu sa mạc"],
+    "answer": 1,
+    "explanation": "Khí hậu ôn đới là khí hậu chủ yếu, ôn hòa, mưa quanh năm.",
+    "points": 0.25
+  },
+  {
+    "id": 10,
+    "type": "multiple-choice",
+    "topic": "Châu Âu - Thiên nhiên",
+    "question": "Châu Âu là châu lục có diện tích lớn thứ mấy trên thế giới?",
+    "choices": ["Thứ 4", "Thứ 5", "Thứ 6", "Thứ 7"],
+    "answer": 2,
+    "explanation": "Châu Âu xếp thứ 6 về diện tích, khoảng 10,2 triệu km².",
+    "points": 0.25
+  },
+  {
+    "id": 11,
+    "type": "multiple-choice",
+    "topic": "Châu Âu - Dân cư",
+    "question": "Mật độ dân số của châu Âu thuộc loại nào so với thế giới?",
+    "choices": ["Rất thấp", "Thấp", "Cao", "Trung bình"],
+    "answer": 2,
+    "explanation": "Châu Âu có mật độ dân số cao, khoảng 70-75 người/km².",
+    "points": 0.25
+  },
+  {
+    "id": 12,
+    "type": "multiple-choice",
+    "topic": "Châu Âu - Liên minh EU",
+    "question": "Đồng tiền chung của Liên minh châu Âu là gì?",
+    "choices": ["Dollar", "Pound", "Euro", "Franc"],
+    "answer": 2,
+    "explanation": "Euro là đồng tiền chung của EU, lưu hành từ năm 2002.",
+    "points": 0.25
+  }
+]

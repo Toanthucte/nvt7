@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Preview Score Summary - Cải tiến</title>
+  <link rel="stylesheet" href="main.css">
+  <style>
+    body {
+      padding: 2rem;
+      background: #f0f2f5;
+    }
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+    }
+    h1 {
+      text-align: center;
+      color: var(--secondary-color);
+      margin-bottom: 2rem;
+    }
+    .comparison {
+      display: grid;
+      gap: 2rem;
+      margin-bottom: 3rem;
+    }
+    .section-title {
+      background: var(--primary-color);
+      color: white;
+      padding: 0.75rem 1.5rem;
+      border-radius: 8px;
+      font-weight: 600;
+      margin-bottom: 1rem;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>🎨 Preview: Score Summary Cải Tiến</h1>
+    
+    <div class="comparison">
+      <!-- Ví dụ 1: Điểm Yếu -->
+      <div>
+        <div class="section-title">📊 Ví dụ 1: Điểm Yếu (13%)</div>
+        <div class="score-summary">
+          <div class="score-main">Điểm: 3/23 (13%)</div>
+          <div class="time-taken">Thời gian làm bài: 5 phút</div>
+          <div class="grade">⚠️ Xếp loại: Yếu</div>
+          <div class="note">
+            💡 Lưu ý: Câu tự luận cần giáo viên chấm điểm thủ công
+          </div>
+        </div>
+      </div>
+
+      <!-- Ví dụ 2: Điểm Trung Bình -->
+      <div>
+        <div class="section-title">📊 Ví dụ 2: Điểm Trung Bình (65%)</div>
+        <div class="score-summary">
+          <div class="score-main">Điểm: 15/23 (65%)</div>
+          <div class="time-taken">Thời gian làm bài: 22 phút</div>
+          <div class="grade">📝 Xếp loại: Trung Bình</div>
+        </div>
+      </div>
+
+      <!-- Ví dụ 3: Điểm Khá -->
+      <div>
+        <div class="section-title">📊 Ví dụ 3: Điểm Khá (78%)</div>
+        <div class="score-summary">
+          <div class="score-main">Điểm: 18/23 (78%)</div>
+          <div class="time-taken">Thời gian làm bài: 35 phút</div>
+          <div class="grade">👍 Xếp loại: Khá</div>
+        </div>
+      </div>
+
+      <!-- Ví dụ 4: Điểm Giỏi -->
+      <div>
+        <div class="section-title">📊 Ví dụ 4: Điểm Giỏi (87%)</div>
+        <div class="score-summary">
+          <div class="score-main">Điểm: 20/23 (87%)</div>
+          <div class="time-taken">Thời gian làm bài: 38 phút</div>
+          <div class="grade">🌟 Xếp loại: Giỏi</div>
+        </div>
+      </div>
+
+      <!-- Ví dụ 5: Điểm Xuất Sắc -->
+      <div>
+        <div class="section-title">📊 Ví dụ 5: Điểm Xuất Sắc (96%)</div>
+        <div class="score-summary">
+          <div class="score-main">Điểm: 22/23 (96%)</div>
+          <div class="time-taken">Thời gian làm bài: 42 phút</div>
+          <div class="grade">🏆 Xếp loại: Xuất Sắc</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Giải thích các cải tiến -->
+    <div style="background: white; padding: 2rem; border-radius: 12px; box-shadow: 0 2px 12px rgba(0,0,0,0.08);">
+      <h2 style="color: var(--primary-color); margin-top: 0;">✨ Các Cải Tiến:</h2>
+      
+      <h3>🎨 Visual Enhancements:</h3>
+      <ul>
+        <li><strong>Padding tăng:</strong> 2rem → 2.5rem (thoáng hơn)</li>
+        <li><strong>Border radius:</strong> 8px → 12px (mềm mại hơn)</li>
+        <li><strong>Box shadow:</strong> Thêm shadow đậm hơn (nổi bật)</li>
+        <li><strong>Border:</strong> Thêm viền trắng mờ (depth)</li>
+      </ul>
+
+      <h3>📝 Typography Improvements:</h3>
+      <ul>
+        <li><strong>.score-main:</strong> 
+          <ul>
+            <li>Font-size: 2rem → 2.5rem</li>
+            <li>Font-weight: bold (700) → 800</li>
+            <li>Thêm text-shadow và letter-spacing</li>
+          </ul>
+        </li>
+        <li><strong>.time-taken:</strong> 
+          <ul>
+            <li>Font-size: 1.1rem → 1.25rem</li>
+            <li>Thêm font-weight: 500</li>
+          </ul>
+        </li>
+        <li><strong>.grade:</strong> 
+          <ul>
+            <li>Font-size: 1.1rem → 1.4rem</li>
+            <li>Font-weight: → 700</li>
+            <li>Thêm background glass effect (backdrop-filter)</li>
+            <li>Text-transform: uppercase + letter-spacing: 2px</li>
+          </ul>
+        </li>
+      </ul>
+
+      <h3>🎯 Readability:</h3>
+      <ul>
+        <li>✅ Xóa định nghĩa CSS trùng lặp (line 1799)</li>
+        <li>✅ Tăng contrast với text-shadow</li>
+        <li>✅ Spacing tốt hơn giữa các elements</li>
+        <li>✅ .note có background và padding rõ ràng</li>
+      </ul>
+
+      <h3>📱 Responsive:</h3>
+      <ul>
+        <li>✅ Giữ nguyên breakpoint @media (max-width: 768px)</li>
+        <li>✅ Font-size tự động scale xuống 1.5rem trên mobile</li>
+      </ul>
+    </div>
+  </div>
+</body>
+</html>

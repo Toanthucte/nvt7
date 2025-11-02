@@ -1,0 +1,28 @@
+[
+  {
+    "id": 18,
+    "type": "short-answer",
+    "question": "Đề phát triển công nghiệp, các vua đầu triều nhà Minh và nhà Thanh thưởng ban hành những chính sách gì?",
+    "answer": "Các vua đầu triều nhà Minh và nhà Thanh thưởng ban hành các chính sách khuyến khích phát triển thủ công nghiệp như: hỗ trợ kỹ thuật sản xuất, giảm thuế cho nghề thủ công, bảo vệ quyền lợi người thợ thủ công, mở rộng thị trường tiêu thụ sản phẩm.",
+    "points": 0.5,
+    "keywords": ["khuyến khích", "thủ công nghiệp", "giảm thuế", "hỗ trợ kỹ thuật", "bảo vệ thợ", "mở rộng thị trường"],
+    "rubric": {
+      "fullCredit": "0.5 điểm - Nêu được ít nhất 2-3 chính sách cụ thể liên quan đến phát triển thủ công nghiệp (khuyến khích, giảm thuế, hỗ trợ kỹ thuật, bảo vệ thợ...).",
+      "partialCredit": "0.25 điểm - Nêu được 1 chính sách hoặc mô tả chung về việc hỗ trợ phát triển công nghiệp.",
+      "noCredit": "0 điểm - Không nêu được chính sách liên quan hoặc sai nội dung hoàn toàn."
+    }
+  },
+  {
+    "id": 19,
+    "type": "short-answer",  
+    "question": "Hướng địa hình chủ yếu của Châu Á là gì?",
+    "answer": "Hướng địa hình chủ yếu của Châu Á là từ cao xuống thấp, từ trung tâm ra ven biển. Cụ thể: khu vực núi cao và cao nguyên (như cao nguyên Tây Tạng, dãy Himalaya) tập trung ở miền trung tâm, độ cao giảm dần về các phía, còn đồng bằng phân bố chủ yếu ở ven biển và ven các con sông lớn.",
+    "points": 0.5,
+    "keywords": ["từ cao xuống thấp", "trung tâm ra ven biển", "núi cao", "cao nguyên", "trung tâm", "đồng bằng", "ven biển", "giảm dần"],
+    "rubric": {
+      "fullCredit": "0.5 điểm - Nêu rõ hướng địa hình từ cao xuống thấp, từ trung tâm ra ven biển, có giải thích hoặc minh họa cụ thể (núi cao, cao nguyên ở trung tâm, đồng bằng ở ven biển).",
+      "partialCredit": "0.25 điểm - Nêu được hướng địa hình (cao xuống thấp hoặc trung tâm ra ven) nhưng chưa đầy đủ hoặc thiếu giải thích.",
+      "noCredit": "0 điểm - Không nêu được hướng địa hình hoặc sai nội dung hoàn toàn."
+    }
+  }
+]

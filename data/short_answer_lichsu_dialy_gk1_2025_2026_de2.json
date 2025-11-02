@@ -1,0 +1,30 @@
+[
+  {
+    "id": 19,
+    "type": "short-answer",
+    "question": "Tiền thân của Liên minh châu Âu (EU) là gì? EU được thành lập chính thức vào năm nào?",
+    "answer": "Cộng đồng Kinh tế châu Âu (EEC); Năm 1993",
+    "points": 0.5,
+    "rubric": {
+      "full": "Trả lời đúng cả tiền thân và năm thành lập (0.5 điểm)",
+      "partial": "Trả lời đúng một trong hai yếu tố (0.25 điểm)",
+      "incorrect": "Không trả lời hoặc trả lời sai cả hai (0 điểm)"
+    },
+    "keywords": ["EEC", "Cộng đồng Kinh tế", "1993"],
+    "explanation": "Tiền thân của EU là Cộng đồng Kinh tế châu Âu (EEC - European Economic Community) thành lập năm 1957. EU chính thức được thành lập năm 1993 theo Hiệp ước Maastricht."
+  },
+  {
+    "id": 20,
+    "type": "short-answer",
+    "question": "Lục địa Á-Âu bao gồm 2 châu lục nào? Ranh giới tự nhiên ngăn cách chúng là gì?",
+    "answer": "Châu Á và châu Âu; Dãy núi U-ran (Ural), sông Ural, biển Caspi",
+    "points": 0.5,
+    "rubric": {
+      "full": "Trả lời đúng 2 châu lục và ranh giới (0.5 điểm)",
+      "partial": "Trả lời đúng 2 châu lục hoặc chỉ nêu được 1-2 ranh giới (0.25 điểm)",
+      "incorrect": "Không trả lời hoặc trả lời sai (0 điểm)"
+    },
+    "keywords": ["Châu Á", "châu Âu", "U-ran", "Ural", "sông Ural", "Caspi"],
+    "explanation": "Lục địa Á-Âu là lục địa lớn nhất thế giới, gồm 2 châu lục: châu Á (phía Đông) và châu Âu (phía Tây). Ranh giới tự nhiên là dãy núi U-ran, sông Ural và biển Caspi."
+  }
+]

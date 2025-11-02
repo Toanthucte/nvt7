@@ -1,0 +1,158 @@
+[
+  {
+    "id": 1,
+    "question": "Đế chế La Mã cổ đại suy yếu vào thời kỳ nào?",
+    "choices": [
+      "Thế kỷ III - V",
+      "Thế kỷ I - II",
+      "Thế kỷ VI - VIII",
+      "Thế kỷ IX - X"
+    ],
+    "answer": 0,
+    "points": 0.25,
+    "explanation": "Đế chế La Mã cổ đại suy yếu vào thế kỷ III - V do nhiều nguyên nhân: khủng hoảng kinh tế, chính trị, và áp lực từ các bộ lạc man di."
+  },
+  {
+    "id": 2,
+    "question": "Năm 476, đế chế La Mã Tây suy vong đánh dấu sự kiện gì?",
+    "choices": [
+      "Kết thúc thời cổ đại, mở đầu thời trung đại ở Tây Âu",
+      "Bắt đầu thời kỳ phong kiến ở Đông Âu",
+      "Sự khởi đầu của Đế chế Byzantine",
+      "Thành lập các vương quốc man di"
+    ],
+    "answer": 0,
+    "points": 0.25,
+    "explanation": "Năm 476 là mốc lịch sử quan trọng đánh dấu sự chấm dứt thời cổ đại và mở đầu thời trung đại ở Tây Âu."
+  },
+  {
+    "id": 3,
+    "question": "Thế kỷ IX, xã hội phong kiến hình thành hoàn chỉnh ở đâu?",
+    "choices": [
+      "Tây Âu",
+      "Đông Âu",
+      "Bắc Âu",
+      "Nam Âu"
+    ],
+    "answer": 0,
+    "points": 0.25,
+    "explanation": "Vào thế kỷ IX, xã hội phong kiến đã hình thành hoàn chỉnh ở Tây Âu với đầy đủ các yếu tố: lãnh địa, phong thần, nông nô."
+  },
+  {
+    "id": 4,
+    "question": "Tác phẩm điêu khắc nổi tiếng \"David\" là của nghệ sĩ nào?",
+    "choices": [
+      "Mi-ken-lăng-giơ (Michelangelo)",
+      "Lê-ô-na đờ Vanh-xi (Leonardo da Vinci)",
+      "Ra-pha-en (Raphael)",
+      "Đô-na-ten-lô (Donatello)"
+    ],
+    "answer": 0,
+    "points": 0.25,
+    "explanation": "Tượng David là kiệt tác điêu khắc nổi tiếng nhất của Mi-ken-lăng-giơ, được hoàn thành năm 1504, cao 5,17m."
+  },
+  {
+    "id": 5,
+    "question": "Tác phẩm \"Hamlet\" là của nhà văn nào?",
+    "choices": [
+      "W. Sếch-xpia (William Shakespeare)",
+      "Xéc-van-tét (Miguel de Cervantes)",
+      "Đan-tê (Dante Alighieri)",
+      "Bốc-ca-chiô (Giovanni Boccaccio)"
+    ],
+    "answer": 0,
+    "points": 0.25,
+    "explanation": "\"Hamlet\" là một trong những tác phẩm bi kịch vĩ đại nhất của nhà văn Anh W. Sếch-xpia, được viết khoảng năm 1600."
+  },
+  {
+    "id": 6,
+    "question": "Bức tranh \"Mona Lisa\" (Nàng Giô-công-đa) là tác phẩm của ai?",
+    "choices": [
+      "Lê-ô-na đờ Vanh-xi (Leonardo da Vinci)",
+      "Mi-ken-lăng-giơ (Michelangelo)",
+      "Ra-pha-en (Raphael)",
+      "Ti-xi-an (Titian)"
+    ],
+    "answer": 0,
+    "points": 0.25,
+    "explanation": "\"Mona Lisa\" là bức tranh nổi tiếng nhất thế giới của Lê-ô-na đờ Vanh-xi, được vẽ từ năm 1503-1519."
+  },
+  {
+    "id": 7,
+    "question": "Diện tích của châu Âu là khoảng bao nhiêu?",
+    "choices": [
+      "10,5 triệu km²",
+      "17,8 triệu km²",
+      "44,4 triệu km²",
+      "30,2 triệu km²"
+    ],
+    "answer": 0,
+    "points": 0.25,
+    "explanation": "Châu Âu có diện tích khoảng 10,5 triệu km², là châu lục nhỏ thứ hai thế giới sau châu Đại Dương."
+  },
+  {
+    "id": 8,
+    "question": "Châu Âu nằm hoàn toàn ở bán cầu nào?",
+    "choices": [
+      "Bán cầu Bắc",
+      "Bán cầu Nam",
+      "Bán cầu Đông",
+      "Bán cầu Tây"
+    ],
+    "answer": 0,
+    "points": 0.25,
+    "explanation": "Châu Âu nằm hoàn toàn ở bán cầu Bắc, phần lớn nằm ở vĩ độ ôn đới."
+  },
+  {
+    "id": 9,
+    "question": "Ranh giới tự nhiên chính ngăn cách châu Âu và châu Á là gì?",
+    "choices": [
+      "Dãy núi U-ran, sông U-ran",
+      "Dãy núi An-pơ, sông Đa-nuýp",
+      "Dãy núi Cao-ca, Biển Đen",
+      "Sông Von-ga, Biển Ban-tích"
+    ],
+    "answer": 0,
+    "points": 0.25,
+    "explanation": "Ranh giới tự nhiên giữa châu Âu và châu Á chủ yếu là dãy núi U-ran và sông U-ran ở phía đông."
+  },
+  {
+    "id": 10,
+    "question": "Năm 2020, dân số châu Âu ước tính khoảng bao nhiêu?",
+    "choices": [
+      "745 triệu người",
+      "547 triệu người",
+      "850 triệu người",
+      "680 triệu người"
+    ],
+    "answer": 0,
+    "points": 0.25,
+    "explanation": "Theo số liệu Liên hợp quốc, năm 2020 dân số châu Âu ước tính khoảng 745 triệu người."
+  },
+  {
+    "id": 11,
+    "question": "Đặc điểm nổi bật của cơ cấu tuổi dân số châu Âu hiện nay là gì?",
+    "choices": [
+      "Tỷ lệ người già cao (65 tuổi trở lên chiếm khoảng 19%)",
+      "Tỷ lệ trẻ em cao (0-14 tuổi chiếm trên 30%)",
+      "Cân bằng giữa các nhóm tuổi",
+      "Tỷ lệ thanh niên cao nhất"
+    ],
+    "answer": 0,
+    "points": 0.25,
+    "explanation": "Châu Âu đang đối mặt với tình trạng già hóa dân số, với tỷ lệ người từ 65 tuổi trở lên chiếm khoảng 19% (năm 2020)."
+  },
+  {
+    "id": 12,
+    "question": "Liên minh châu Âu (EU) được thành lập chính thức vào năm nào?",
+    "choices": [
+      "1993",
+      "1957",
+      "2002",
+      "1989"
+    ],
+    "answer": 0,
+    "points": 0.25,
+    "explanation": "Liên minh châu Âu (EU) được thành lập chính thức năm 1993 theo Hiệp ước Maastricht (Hà Lan), tiền thân là Cộng đồng Kinh tế châu Âu (EEC) thành lập năm 1957."
+  }
+]

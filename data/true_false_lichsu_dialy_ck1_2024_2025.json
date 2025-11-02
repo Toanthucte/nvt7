@@ -1,0 +1,33 @@
+[
+  {
+    "id": 17,
+    "type": "true-false",
+    "question": "Câu hỏi gồm bốn ý (1, 2, 3, 4); tại mỗi ý khi làm bài học sinh sẽ chọn câu trả lời Đúng hoặc Sai",
+    "statements": [
+      {
+        "id": "17.1",
+        "statement": "Năm 1368, Chu Nguyên Chương lật đổ nhà Nguyên, lên ngôi Hoàng đế lập ra nhà Minh.",
+        "answer": true,
+        "explanation": "Đúng. Năm 1368, Chu Nguyên Chương đã lãnh đạo cuộc khởi nghĩa nông dân thành công, lật đổ nhà Nguyên do người Mông Cổ thống trị, lên ngôi Hoàng đế và lập ra triều đại nhà Minh, mở ra thời kỳ phát triển mới của Trung Quốc."
+      },
+      {
+        "id": "17.2",
+        "statement": "Năm 1645 người Mãn tộc phía Đông Bắc trần xuống, xâm chiếm toàn bộ Trung Quốc lập ra nhà Thanh.",
+        "answer": true,
+        "explanation": "Đúng. Năm 1645, người Mãn tộc từ phía Đông Bắc tiến xuống, xâm chiếm toàn bộ Trung Quốc, lật đổ nhà Minh và thiết lập triều đại nhà Thanh (hay nhà Đại Thanh), trị vì Trung Quốc cho đến năm 1911."
+      },
+      {
+        "id": "17.3",
+        "statement": "Khu vực núi, cao nguyên và sơn nguyên phân bố chủ yếu ở vùng trung tâm.",
+        "answer": true,
+        "explanation": "Đúng. Địa hình châu Á có đặc điểm: khu vực núi cao, cao nguyên và sơn nguyên phân bố chủ yếu ở vùng trung tâm (như cao nguyên Tây Tạng, dãy Himalaya), trong khi đồng bằng tập trung chủ yếu ở ven biển."
+      },
+      {
+        "id": "17.4",
+        "statement": "Khu vực đồng bằng: chiếm 3/4 diện tích, phần bố chủ yếu ở ven biển.",
+        "answer": false,
+        "explanation": "Sai. Khu vực đồng bằng KHÔNG chiếm 3/4 diện tích châu Á. Đây là sai lầm về tỷ lệ diện tích. Thực tế, địa hình châu Á có đặc điểm: núi và cao nguyên chiếm khoảng 3/4 (75%) diện tích và tập trung ở trung tâm, còn đồng bằng chỉ chiếm khoảng 1/4 (25%) diện tích và phân bố chủ yếu ở ven biển, ven các con sông lớn. Phần sau của câu (phân bố chủ yếu ở ven biển) là đúng, nhưng tỷ lệ 3/4 là hoàn toàn sai."
+      }
+    ]
+  }
+]

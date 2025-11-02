@@ -1,0 +1,200 @@
+[
+  {
+    "id": 13,
+    "type": "true-false",
+    "topic": "Tây Âu - Phong kiến",
+    "question": "Câu hỏi gồm bốn ý (a, b, c, d); tại mỗi ý học sinh chọn Đúng hoặc Sai",
+    "points": 0.5,
+    "statements": [
+      {
+        "id": "a",
+        "statement": "Chế độ phong kiến Tây Âu hình thành sau khi Đế chế La Mã Tây sụp đổ năm 476.",
+        "answer": true,
+        "explanation": "Đúng. Chế độ phong kiến hình thành từ thế kỷ V sau sự sụp đổ của La Mã Tây."
+      },
+      {
+        "id": "b",
+        "statement": "Nông nô là giai cấp có nhiều quyền lợi trong xã hội phong kiến Tây Âu.",
+        "answer": false,
+        "explanation": "Sai. Nông nô là giai cấp bị áp bức, không tự do, phải nộp tô thuế nặng nề."
+      },
+      {
+        "id": "c",
+        "statement": "Nhà thờ Công giáo giữ vai trò quan trọng trong đời sống tinh thần xã hội phong kiến.",
+        "answer": true,
+        "explanation": "Đúng. Nhà thờ có ảnh hưởng lớn đến chính trị, văn hóa, giáo dục."
+      },
+      {
+        "id": "d",
+        "statement": "Hệ thống phân cấp xã hội phong kiến dựa trên chế độ phong tặng đất đai.",
+        "answer": true,
+        "explanation": "Đúng. Lãnh chúa phong đất cho gia thần, tạo mối quan hệ chủ-tùy."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "type": "true-false",
+    "topic": "Tây Âu - Phát kiến địa lí",
+    "question": "Câu hỏi gồm bốn ý (a, b, c, d); tại mỗi ý học sinh chọn Đúng hoặc Sai",
+    "points": 0.5,
+    "statements": [
+      {
+        "id": "a",
+        "statement": "Cristophe Colomb khám phá châu Mỹ năm 1492 khi tìm đường sang Ấn Độ.",
+        "answer": true,
+        "explanation": "Đúng. Colomb khám phá châu Mỹ năm 1492 khi đi tìm con đường mới sang Ấn Độ."
+      },
+      {
+        "id": "b",
+        "statement": "Vasco da Gama là người đầu tiên đi vòng quanh thế giới.",
+        "answer": false,
+        "explanation": "Sai. Magellan và đoàn thủy thủ là người đầu tiên đi vòng quanh thế giới (1519-1522)."
+      },
+      {
+        "id": "c",
+        "statement": "Các cuộc phát kiến địa lí diễn ra chủ yếu ở thế kỷ XV-XVI.",
+        "answer": true,
+        "explanation": "Đúng. Thời kỳ phát kiến địa lí lớn từ cuối thế kỷ XV đến giữa thế kỷ XVI."
+      },
+      {
+        "id": "d",
+        "statement": "Các cuộc phát kiến địa lí giúp mở rộng quan hệ thương mại toàn cầu.",
+        "answer": true,
+        "explanation": "Đúng. Mở ra thời đại mới, thiết lập các tuyến đường thương mại toàn cầu."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "type": "true-false",
+    "topic": "Tây Âu - Văn hóa Phục hưng",
+    "question": "Câu hỏi gồm bốn ý (a, b, c, d); tại mỗi ý học sinh chọn Đúng hoặc Sai",
+    "points": 0.5,
+    "statements": [
+      {
+        "id": "a",
+        "statement": "Phong trào Phục hưng bắt đầu từ nước Ý vào thế kỷ XIV-XV.",
+        "answer": true,
+        "explanation": "Đúng. Phục hưng khởi nguồn từ Ý, đặc biệt là Florence."
+      },
+      {
+        "id": "b",
+        "statement": "Văn hóa Phục hưng phục hồi văn hóa Hy Lạp-La Mã và đề cao con người.",
+        "answer": true,
+        "explanation": "Đúng. Phục hưng là 'tái sinh', đề cao chủ nghĩa nhân văn."
+      },
+      {
+        "id": "c",
+        "statement": "Leonardo da Vinci chỉ nổi tiếng là một họa sĩ.",
+        "answer": false,
+        "explanation": "Sai. Da Vinci là thiên tài toàn năng: họa sĩ, nhà khoa học, kỹ sư..."
+      },
+      {
+        "id": "d",
+        "statement": "Phong trào Phục hưng chỉ ảnh hưởng đến nghệ thuật.",
+        "answer": false,
+        "explanation": "Sai. Phục hưng ảnh hưởng cả nghệ thuật, văn học, khoa học, triết học."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "type": "true-false",
+    "topic": "Châu Âu - Thiên nhiên",
+    "question": "Câu hỏi gồm bốn ý (a, b, c, d); tại mỗi ý học sinh chọn Đúng hoặc Sai",
+    "points": 0.5,
+    "statements": [
+      {
+        "id": "a",
+        "statement": "Châu Âu là châu lục có diện tích lớn nhất thế giới.",
+        "answer": false,
+        "explanation": "Sai. Châu Âu xếp thứ 6 về diện tích, khoảng 10,2 triệu km²."
+      },
+      {
+        "id": "b",
+        "statement": "Địa hình châu Âu chủ yếu là đồng bằng và đồi thấp.",
+        "answer": true,
+        "explanation": "Đúng. Đồng bằng và đồi thấp chiếm khoảng 2/3 diện tích."
+      },
+      {
+        "id": "c",
+        "statement": "Dãy núi Ural là ranh giới giữa châu Âu và châu Á.",
+        "answer": true,
+        "explanation": "Đúng. Dãy Ural chạy dài theo hướng bắc-nam, ngăn cách hai châu lục."
+      },
+      {
+        "id": "d",
+        "statement": "Khí hậu chủ yếu của châu Âu là khí hậu ôn đới.",
+        "answer": true,
+        "explanation": "Đúng. Khí hậu ôn đới ôn hòa, mưa quanh năm là khí hậu chủ yếu."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "type": "true-false",
+    "topic": "Châu Âu - Dân cư",
+    "question": "Câu hỏi gồm bốn ý (a, b, c, d); tại mỗi ý học sinh chọn Đúng hoặc Sai",
+    "points": 0.5,
+    "statements": [
+      {
+        "id": "a",
+        "statement": "Châu Âu có mật độ dân số thấp so với mức trung bình thế giới.",
+        "answer": false,
+        "explanation": "Sai. Châu Âu có mật độ dân số cao (70-75 người/km²)."
+      },
+      {
+        "id": "b",
+        "statement": "Dân số châu Âu phân bố không đều, tập trung ở khu công nghiệp và thành thị.",
+        "answer": true,
+        "explanation": "Đúng. Dân số tập trung ở đô thị, khu công nghiệp, đồng bằng ven biển."
+      },
+      {
+        "id": "c",
+        "statement": "Người da trắng chiếm đa số dân số châu Âu.",
+        "answer": true,
+        "explanation": "Đúng. Người da trắng (Ơ-rô-pê-ô-it) chiếm đa số."
+      },
+      {
+        "id": "d",
+        "statement": "Tỉ lệ già hóa dân số ở châu Âu đang ở mức cao.",
+        "answer": true,
+        "explanation": "Đúng. Già hóa dân số nghiêm trọng, người cao tuổi chiếm ~20%."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "type": "true-false",
+    "topic": "Châu Âu - Liên minh EU",
+    "question": "Câu hỏi gồm bốn ý (a, b, c, d); tại mỗi ý học sinh chọn Đúng hoặc Sai",
+    "points": 0.5,
+    "statements": [
+      {
+        "id": "a",
+        "statement": "Liên minh châu Âu (EU) là tổ chức liên kết kinh tế và chính trị.",
+        "answer": true,
+        "explanation": "Đúng. EU liên kết toàn diện về kinh tế, chính trị, an ninh."
+      },
+      {
+        "id": "b",
+        "statement": "Tất cả các quốc gia châu Âu đều là thành viên của EU.",
+        "answer": false,
+        "explanation": "Sai. Hiện EU có 27 thành viên, không phải tất cả nước châu Âu."
+      },
+      {
+        "id": "c",
+        "statement": "Euro được sử dụng bởi tất cả các nước thành viên EU.",
+        "answer": false,
+        "explanation": "Sai. Chỉ 20/27 nước sử dụng Euro."
+      },
+      {
+        "id": "d",
+        "statement": "Công dân EU có quyền tự do đi lại, sinh sống và làm việc trong khu vực EU.",
+        "answer": true,
+        "explanation": "Đúng. Đây là một trong những quyền lợi quan trọng của EU."
+      }
+    ]
+  }
+]

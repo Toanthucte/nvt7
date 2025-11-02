@@ -1,0 +1,116 @@
+[
+  {
+    "id": 26,
+    "type": "essay",
+    "topic": "Tây Âu - Phong kiến",
+    "question": "Trình bày quá trình hình thành và phát triển chế độ phong kiến ở Tây Âu.",
+    "points": 1.0,
+    "guidelines": [
+      "Nêu thời gian và bối cảnh hình thành chế độ phong kiến",
+      "Trình bày đặc điểm tổ chức xã hội phong kiến",
+      "Nêu vai trò của Nhà thờ Công giáo",
+      "Phân tích tình trạng nông nô"
+    ],
+    "sampleAnswer": "Quá trình hình thành và phát triển chế độ phong kiến Tây Âu:\n\n1. THỜI GIAN VÀ BỐI CẢNH HÌNH THÀNH:\n- Thời gian: Từ thế kỷ V (sau khi Đế chế La Mã Tây sụp đổ năm 476)\n- Bối cảnh: Các bộ lạc Giéc-man xâm lược, xã hội rối loạn, cần xây dựng trật tự mới\n- Sự giao thoa giữa văn hóa La Mã cổ đại và văn hóa các bộ lạc man di\n\n2. ĐẶC ĐIỂM TỔ CHỨC XÃ HỘI:\n- Hệ thống phân cấp chặt chẽ: Vua - Lãnh chúa lớn - Lãnh chúa nhỏ - Hiệp sĩ - Nông nô\n- Chế độ phong tặng: Lãnh chúa phong đất cho gia thần, đổi lại nhận sự trung thành và nghĩa vụ quân sự\n- Mối quan hệ chủ-tùy: Người nhận phong phải tuyên thệ trung thành với chủ\n- Kinh tế tự cung tự cấp tại mỗi lãnh địa\n\n3. VAI TRÒ CỦA NHÀ THỜ CÔNG GIÁO:\n- Giữ vai trò quan trọng nhất trong đời sống tinh thần\n- Giáo hoàng có quyền lực lớn, thường can thiệp vào chính trị\n- Nhà thờ sở hữu nhiều ruộng đất, là lãnh chúa lớn\n- Kiểm soát giáo dục, văn hóa, nghệ thuật\n\n4. TÌNH TRẠNG NÔNG NÔ:\n- Nông nô là giai cấp bị áp bức, chiếm đa số dân số\n- Không có tự do cá nhân, lệ thuộc hoàn toàn vào lãnh chúa\n- Phải nộp tô thuế nặng nề: thuế sản phẩm, tiền tệ, lao dịch\n- Cuộc sống khốn khó, không có quyền rời bỏ lãnh địa\n\nKẾT LUẬN: Chế độ phong kiến Tây Âu là một xã hội phân cấp chặt chẽ, với sự áp bức nặng nề đối với nông nô và ảnh hưởng mạnh mẽ của Nhà thờ.",
+    "rubric": {
+      "excellent": "0.9-1.0 điểm: Trình bày đầy đủ 4 nội dung, có thời gian, bối cảnh, đặc điểm chi tiết, phân tích sâu sắc",
+      "good": "0.7-0.8 điểm: Trình bày được 3-4 nội dung, có đặc điểm cơ bản",
+      "fair": "0.5-0.6 điểm: Trình bày được 2 nội dung hoặc còn thiếu chi tiết",
+      "poor": "0-0.4 điểm: Trình bày sơ sài, thiếu nhiều nội dung hoặc sai"
+    }
+  },
+  {
+    "id": 27,
+    "type": "essay",
+    "topic": "Tây Âu - Phát kiến địa lí",
+    "question": "a) Nêu nguyên nhân dẫn đến các cuộc phát kiến địa lí ở thế kỷ XV-XVI.\n\nb) Trình bày ý nghĩa của các cuộc phát kiến địa lí.",
+    "points": 1.0,
+    "parts": [
+      {
+        "part": "a",
+        "question": "Nêu nguyên nhân dẫn đến các cuộc phát kiến địa lí ở thế kỷ XV-XVI.",
+        "points": 0.5,
+        "guidelines": [
+          "Nguyên nhân kinh tế",
+          "Nguyên nhân khoa học kỹ thuật",
+          "Động lực chính trị, tôn giáo"
+        ],
+        "sampleAnswer": "Nguyên nhân các cuộc phát kiến địa lí:\n\n1. NGUYÊN NHÂN KINH TẾ:\n- Nhu cầu tìm kiếm vàng bạc, gia vị, lụa từ phương Đông\n- Con đường thương mại cũ qua Trung Đông bị người Thổ Nhĩ Kỳ cắt đứt (1453)\n- Thương nhân châu Âu cần tìm con đường mới sang Ấn Độ, Trung Quốc\n\n2. NGUYÊN NHÂN KHOA HỌC KỸ THUẬT:\n- Tiến bộ trong đóng tàu (tàu lớn, vững chắc hơn)\n- Phát minh la bàn, bản đồ được cải tiến\n- Kiến thức thiên văn, địa lí phát triển (thuyết Trái Đất hình cầu)\n\n3. ĐỘNG LỰC CHÍNH TRỊ - TÔN GIÁO:\n- Các vua châu Âu muốn mở rộng lãnh thổ, tăng quyền lực\n- Truyền bá đạo Công giáo ra thế giới\n- Tinh thần phiêu lưu, khám phá của con người thời Phục hưng"
+      },
+      {
+        "part": "b",
+        "question": "Trình bày ý nghĩa của các cuộc phát kiến địa lí.",
+        "points": 0.5,
+        "guidelines": [
+          "Ý nghĩa về địa lí, khoa học",
+          "Ý nghĩa về kinh tế, thương mại",
+          "Ý nghĩa về lịch sử thế giới"
+        ],
+        "sampleAnswer": "Ý nghĩa các cuộc phát kiến địa lí:\n\n1. VỀ ĐỊA LÍ - KHOA HỌC:\n- Khẳng định Trái Đất hình cầu (Magellan đi vòng quanh thế giới)\n- Phát hiện các châu lục mới (châu Mỹ, châu Đại Dương)\n- Mở rộng hiểu biết về địa lí thế giới\n\n2. VỀ KINH TẾ - THƯƠNG MẠI:\n- Mở ra các tuyến đường thương mại mới nối liền các châu lục\n- Thúc đẩy phát triển thương nghiệp, tư bản thương mại\n- Tạo điều kiện cho chủ nghĩa tư bản phát triển\n\n3. VỀ LỊCH SỬ THẾ GIỚI:\n- Kết nối các nền văn minh, tạo nên thị trường thế giới\n- Giao lưu văn hóa giữa các châu lục\n- Mặt trái: Dẫn đến chủ nghĩa thực dân, bóc lột các dân tộc"
+      }
+    ],
+    "rubric": {
+      "excellent": "0.9-1.0 điểm: Phần a nêu đủ 3 nguyên nhân chi tiết; phần b nêu đủ 3 ý nghĩa rõ ràng",
+      "good": "0.7-0.8 điểm: Phần a nêu 2-3 nguyên nhân; phần b nêu 2-3 ý nghĩa",
+      "fair": "0.5-0.6 điểm: Mỗi phần nêu được 1-2 ý nhưng chưa đầy đủ",
+      "poor": "0-0.4 điểm: Cả hai phần đều thiếu nhiều nội dung hoặc sai"
+    }
+  },
+  {
+    "id": 28,
+    "type": "essay",
+    "topic": "Tây Âu - Văn hóa Phục hưng",
+    "question": "Trình bày nội dung và ý nghĩa của phong trào văn hóa Phục hưng.",
+    "points": 1.0,
+    "guidelines": [
+      "Nêu thời gian, nơi khởi nguồn",
+      "Trình bày nội dung chính của phong trào",
+      "Nêu thành tựu tiêu biểu",
+      "Phân tích ý nghĩa"
+    ],
+    "sampleAnswer": "Phong trào văn hóa Phục hưng:\n\n1. THỜI GIAN VÀ NƠI KHỞI NGUỒN:\n- Thời gian: Thế kỷ XIV-XVI (đỉnh cao thế kỷ XV-XVI)\n- Nơi khởi nguồn: Ý (đặc biệt là thành phố Florence)\n- Lan rộng: Pháp, Anh, Đức, Tây Ban Nha...\n\n2. NỘI DUNG CHÍNH:\n- Phục hồi văn hóa cổ điển Hy Lạp - La Mã\n- Chủ nghĩa nhân văn: Đề cao con người, lý trí, khoa học\n- Phản đối sự áp bức của Nhà thờ, tư tưởng thần quyền\n- Khẳng định giá trị cá nhân, quyền tự do sáng tạo\n\n3. THÀNH TỰU TIÊU BIỂU:\n\nVăn học:\n- Dante (Ý): 'Thần khúc'\n- Shakespeare (Anh): 'Romeo và Juliet', 'Hamlet'\n- Cervantes (Tây Ban Nha): 'Don Quixote'\n\nHội họa - Điêu khắc:\n- Leonardo da Vinci: 'Nàng Mona Lisa', 'Bữa ăn tối cuối cùng'\n- Michelangelo: Tượng 'David', tranh trần nhà thờ Sistine\n- Raphael: 'Đức mẹ và con'\n\nKhoa học:\n- Copernicus: Thuyết nhật tâm\n- Galileo: Kính thiên văn, vật lí học\n- Phát minh in ấn (Gutenberg): Phổ biến tri thức\n\n4. Ý NGHĨA:\n- Giải phóng tư tưởng khỏi sự kiềm tỏa của Nhà thờ\n- Thúc đẩy khoa học, nghệ thuật phát triển mạnh mẽ\n- Tạo nền tảng cho xã hội tư bản, thời đại cận đại\n- Ảnh hưởng sâu rộng đến văn hóa nhân loại\n- Di sản văn hóa vô giá cho thế giới\n\nKẾT LUẬN: Phục hưng là bước ngoặt quan trọng trong lịch sử văn hóa châu Âu và thế giới, đánh dấu sự chuyển mình từ Trung cổ sang thời đại Cận đại.",
+    "rubric": {
+      "excellent": "0.9-1.0 điểm: Trình bày đầy đủ thời gian, nội dung, thành tựu cụ thể (ít nhất 3-4 nhân vật), ý nghĩa sâu sắc",
+      "good": "0.7-0.8 điểm: Có thời gian, nội dung, 2-3 thành tựu, ý nghĩa cơ bản",
+      "fair": "0.5-0.6 điểm: Thiếu thời gian hoặc nội dung, ít thành tựu, ý nghĩa chưa rõ",
+      "poor": "0-0.4 điểm: Thiếu nhiều nội dung, không nêu được thành tựu cụ thể"
+    }
+  },
+  {
+    "id": 29,
+    "type": "essay",
+    "topic": "Châu Âu - Dân cư và Liên minh",
+    "question": "a) Trình bày đặc điểm dân cư - xã hội của châu Âu.\n\nb) Nêu vai trò và ý nghĩa của Liên minh châu Âu đối với các nước thành viên.",
+    "points": 1.0,
+    "parts": [
+      {
+        "part": "a",
+        "question": "Trình bày đặc điểm dân cư - xã hội của châu Âu.",
+        "points": 0.5,
+        "guidelines": [
+          "Quy mô và mật độ dân số",
+          "Thành phần chủng tộc",
+          "Đô thị hóa và già hóa dân số"
+        ],
+        "sampleAnswer": "Đặc điểm dân cư - xã hội châu Âu:\n\n1. QUY MÔ VÀ MẬT ĐỘ:\n- Dân số: Khoảng 750 triệu người (khoảng 10% dân số thế giới)\n- Mật độ cao: Trung bình 70-75 người/km² (cao hơn TB thế giới)\n- Phân bố không đều: Tập trung ở đô thị, khu công nghiệp, đồng bằng ven biển\n\n2. THÀNH PHẦN CHỦNG TỘC:\n- Chủ yếu: Người da trắng (chủng Ơ-rô-pê-ô-it) - chiếm tuyệt đại đa số\n- Nhiều dân tộc: Anh, Pháp, Đức, Ý, Tây Ban Nha, Nga...\n- Dân nhập cư: Từ châu Phi, châu Á tăng lên trong những thập kỷ gần đây\n\n3. ĐẶC ĐIỂM XÃ HỘI:\n- Tỉ lệ đô thị hóa rất cao (trên 70-75%)\n- Trình độ giáo dục và văn hóa cao\n- Chất lượng cuộc sống tốt, phúc lợi xã hội phát triển\n- Già hóa dân số: Tỉ lệ người cao tuổi (>65) khoảng 20%\n- Tỉ suất sinh thấp, tuổi thọ cao (trên 80 tuổi)"
+      },
+      {
+        "part": "b",
+        "question": "Nêu vai trò và ý nghĩa của Liên minh châu Âu đối với các nước thành viên.",
+        "points": 0.5,
+        "guidelines": [
+          "Vai trò về kinh tế",
+          "Vai trò về chính trị - an ninh",
+          "Vai trò về xã hội - văn hóa"
+        ],
+        "sampleAnswer": "Vai trò và ý nghĩa của Liên minh châu Âu:\n\n1. VỀ KINH TẾ:\n- Tạo thị trường chung rộng lớn (hơn 450 triệu người)\n- Tự do lưu thông hàng hóa, dịch vụ, vốn giữa các nước\n- Đồng tiền chung Euro tạo thuận lợi thương mại\n- Tăng sức cạnh tranh kinh tế toàn cầu\n- Hỗ trợ phát triển cho các nước thành viên nghèo hơn\n\n2. VỀ CHÍNH TRỊ - AN NINH:\n- Duy trì hòa bình, ngăn chặn chiến tranh ở châu Âu\n- Tăng cường tiếng nói chung trong quan hệ quốc tế\n- Hợp tác an ninh, chống khủng bố, tội phạm xuyên quốc gia\n- Chính sách đối ngoại và quốc phòng chung\n\n3. VỀ XÃ HỘI - VĂN HÓA:\n- Công dân EU được tự do đi lại, sinh sống, làm việc trong khu vực\n- Quyền lợi bình đẳng về giáo dục, y tế, phúc lợi\n- Giao lưu văn hóa, giáo dục giữa các nước\n- Bảo vệ môi trường, chống biến đổi khí hậu chung\n\nKẾT LUẬN: EU đóng vai trò quan trọng trong việc thúc đẩy hợp tác toàn diện, nâng cao đời sống và vị thế của các nước thành viên."
+      }
+    ],
+    "rubric": {
+      "excellent": "0.9-1.0 điểm: Phần a đầy đủ 3 đặc điểm chi tiết; phần b nêu đủ 3 vai trò rõ ràng",
+      "good": "0.7-0.8 điểm: Phần a có 2-3 đặc điểm; phần b có 2-3 vai trò",
+      "fair": "0.5-0.6 điểm: Mỗi phần có 1-2 ý nhưng chưa đầy đủ",
+      "poor": "0-0.4 điểm: Cả hai phần đều thiếu nhiều nội dung"
+    }
+  }
+]

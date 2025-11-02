@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "question": "Giai cấp thống trị trong xã hội phong kiến Tây Âu là ai?",
+    "choices": [
+      "Giai cấp tư sản",
+      "Giai cấp quý tộc phong kiến",
+      "Giai cấp nông dân",
+      "Giai cấp công nhân"
+    ],
+    "correctAnswer": 1,
+    "points": 0.25,
+    "explanation": "Giai cấp quý tộc phong kiến (lãnh chúa) là giai cấp thống trị trong xã hội phong kiến Tây Âu. Họ sở hữu ruộng đất, thu thuế và có quyền lực chính trị - quân sự.",
+    "topic": "Phong kiến Tây Âu"
+  },
+  {
+    "id": 2,
+    "question": "Thế kỷ IX, xã hội phong kiến nào đã hình thành hoàn chỉnh?",
+    "choices": [
+      "Pháp",
+      "Anh",
+      "Đức",
+      "Ý"
+    ],
+    "correctAnswer": 0,
+    "points": 0.25,
+    "explanation": "Thế kỷ IX, xã hội phong kiến Pháp (dưới thời vua Charles Đại đế và con cháu) đã hình thành hoàn chỉnh với hệ thống phân cấp chặt chẽ và chế độ phong tặng.",
+    "topic": "Phong kiến Tây Âu"
+  },
+  {
+    "id": 3,
+    "question": "Lãnh địa phong kiến ở Tây Âu có mấy giai cấp chính?",
+    "choices": [
+      "1 giai cấp",
+      "2 giai cấp",
+      "3 giai cấp",
+      "4 giai cấp"
+    ],
+    "correctAnswer": 1,
+    "points": 0.25,
+    "explanation": "Lãnh địa phong kiến có 2 giai cấp chính: giai cấp quý tộc phong kiến (lãnh chúa) và giai cấp nông nô (người lao động bị áp bức).",
+    "topic": "Phong kiến Tây Âu"
+  },
+  {
+    "id": 4,
+    "question": "Năm 476, đế chế La Mã xảy ra sự kiện lịch sử nào?",
+    "choices": [
+      "Được thành lập",
+      "Sụp đổ hoàn toàn",
+      "Đạt đỉnh cao quyền lực",
+      "Chia thành 2 phần"
+    ],
+    "correctAnswer": 1,
+    "points": 0.25,
+    "explanation": "Năm 476, Đế chế La Mã Tây sụp đổ sau khi bị các bộ lạc Giéc-man xâm lược. Đây là mốc đánh dấu kết thúc thời cổ đại và bắt đầu thời trung cổ ở châu Âu.",
+    "topic": "Phong kiến Tây Âu"
+  },
+  {
+    "id": 5,
+    "question": "Tác phẩm điêu khắc nổi tiếng của nghệ sĩ Mi-ken-lăng-giơ là gì?",
+    "choices": [
+      "Nàng Mô-na Li-da",
+      "Tượng Đa-vít",
+      "Bi kịch Ha-mơ-lét",
+      "Thần khúc"
+    ],
+    "correctAnswer": 1,
+    "points": 0.25,
+    "explanation": "Tượng Đa-vít (David) là tác phẩm điêu khắc nổi tiếng nhất của Mi-ken-lăng-giơ (Michelangelo), thể hiện vẻ đẹp hoàn hảo của cơ thể con người.",
+    "topic": "Văn hóa Phục Hưng"
+  },
+  {
+    "id": 6,
+    "question": "Tác phẩm nổi tiếng của nhà văn W. Sếch-xpia (Shakespeare) là gì?",
+    "choices": [
+      "Thần khúc",
+      "Tượng Đa-vít",
+      "Bi kịch Ha-mơ-lét (Hamlet)",
+      "Nàng Mô-na Li-da"
+    ],
+    "correctAnswer": 2,
+    "points": 0.25,
+    "explanation": "Bi kịch Ha-mơ-lét (Hamlet) là một trong những tác phẩm nổi tiếng nhất của nhà văn Anh W. Sếch-xpia (William Shakespeare), bên cạnh các tác phẩm khác như Rô-mi-ô và Giu-li-ét.",
+    "topic": "Văn hóa Phục Hưng"
+  },
+  {
+    "id": 7,
+    "question": "Diện tích của châu Âu khoảng bao nhiêu km²?",
+    "choices": [
+      "5,3 triệu km²",
+      "10,2 triệu km²",
+      "17,1 triệu km²",
+      "44,4 triệu km²"
+    ],
+    "correctAnswer": 1,
+    "points": 0.25,
+    "explanation": "Châu Âu có diện tích khoảng 10,2 triệu km², là châu lục nhỏ thứ 6 trên thế giới (chỉ lớn hơn châu Đại Dương).",
+    "topic": "Thiên nhiên châu Âu"
+  },
+  {
+    "id": 8,
+    "question": "Châu Âu nằm hoàn toàn ở bán cầu nào?",
+    "choices": [
+      "Bán cầu Nam",
+      "Bán cầu Bắc",
+      "Bán cầu Đông",
+      "Bán cầu Tây"
+    ],
+    "correctAnswer": 1,
+    "points": 0.25,
+    "explanation": "Châu Âu nằm hoàn toàn ở bán cầu Bắc, với vĩ độ từ khoảng 36°N đến 71°N.",
+    "topic": "Thiên nhiên châu Âu"
+  },
+  {
+    "id": 9,
+    "question": "Dãy núi U-ran nằm ở phía nào của châu Âu?",
+    "choices": [
+      "Phía Tây",
+      "Phía Nam",
+      "Phía Đông",
+      "Phía Bắc"
+    ],
+    "correctAnswer": 2,
+    "points": 0.25,
+    "explanation": "Dãy núi U-ran (Ural) nằm ở phía Đông châu Âu, là ranh giới tự nhiên ngăn cách châu Âu và châu Á.",
+    "topic": "Thiên nhiên châu Âu"
+  },
+  {
+    "id": 10,
+    "question": "Năm 2020, dân số châu Âu ước tính khoảng bao nhiêu triệu người?",
+    "choices": [
+      "547 triệu người",
+      "645 triệu người",
+      "745 triệu người",
+      "845 triệu người"
+    ],
+    "correctAnswer": 2,
+    "points": 0.25,
+    "explanation": "Năm 2020, dân số châu Âu ước tính khoảng 745 triệu người, chiếm khoảng 9,4% dân số toàn cầu.",
+    "topic": "Dân cư châu Âu"
+  },
+  {
+    "id": 11,
+    "question": "Hiện nay EU (Liên minh châu Âu) có bao nhiêu quốc gia thành viên?",
+    "choices": [
+      "25 quốc gia",
+      "27 quốc gia",
+      "28 quốc gia",
+      "30 quốc gia"
+    ],
+    "correctAnswer": 1,
+    "points": 0.25,
+    "explanation": "Hiện nay EU có 27 quốc gia thành viên (sau khi Anh rời khỏi EU năm 2020 - Brexit).",
+    "topic": "Liên minh châu Âu"
+  },
+  {
+    "id": 12,
+    "question": "Trụ sở chính của Liên minh châu Âu (EU) đặt ở đâu?",
+    "choices": [
+      "Paris, Pháp",
+      "Berlin, Đức",
+      "Brussels, Bỉ",
+      "Amsterdam, Hà Lan"
+    ],
+    "correctAnswer": 2,
+    "points": 0.25,
+    "explanation": "Trụ sở chính của EU đặt tại Brussels (Bruxelles), thủ đô của Bỉ, là trung tâm hành chính và chính trị của Liên minh.",
+    "topic": "Liên minh châu Âu"
+  }
+]

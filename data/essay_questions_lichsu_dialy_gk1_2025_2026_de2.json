@@ -1,0 +1,58 @@
+[
+  {
+    "id": 21,
+    "type": "essay",
+    "question": "Trình bày 4 cuộc đại phát kiến địa lí tiêu biểu từ thế kỷ XV đến thế kỷ XVI (người thực hiện, thời gian, địa điểm phát kiến).",
+    "points": 1.0,
+    "level": "nhận biết",
+    "sampleAnswer": "Bốn cuộc đại phát kiến địa lí tiêu biểu:\n\n**1. Cuộc hành trình của Cristô-pơ Cô-lôm-bô (Christopher Columbus):**\n- Người thực hiện: Cristô-pơ Cô-lôm-bô (người Ý, phục vụ cho Tây Ban Nha)\n- Thời gian: 1492-1493\n- Địa điểm phát kiến: Châu Mỹ (các đảo Caribe)\n- Ý nghĩa: Phát hiện ra \"Tân thế giới\", mở đường cho châu Âu xâm chiếm châu Mỹ\n\n**2. Cuộc hành trình của Vát-cơ đơ Ga-ma (Vasco da Gama):**\n- Người thực hiện: Vát-cơ đơ Ga-ma (người Bồ Đào Nha)\n- Thời gian: 1497-1498\n- Địa điểm phát kiến: Tìm được đường biển đến Ấn Độ (vòng qua mũi Hảo Vọng - Châu Phi)\n- Ý nghĩa: Mở đường thương mại biển giữa châu Âu và châu Á\n\n**3. Cuộc hành trình của Phéc-đi-nan Mát-gien-lăng (Ferdinand Magellan):**\n- Người thực hiện: Phéc-đi-nan Mát-gien-lăng (người Bồ Đào Nha, phục vụ cho Tây Ban Nha)\n- Thời gian: 1519-1522\n- Địa điểm phát kiến: Hoàn thành cuộc hành trình vòng quanh thế giới lần đầu tiên\n- Ý nghĩa: Chứng minh Trái Đất hình cầu\n\n**4. Cuộc hành trình của Gia-cơ-mơ Ca-bô-tan (Jacques Cartier):**\n- Người thực hiện: Gia-cơ-mơ Ca-bô-tan (người Pháp)\n- Thời gian: 1534-1542\n- Địa điểm phát kiến: Vùng đông Canada, sông St. Lawrence\n- Ý nghĩa: Mở đường cho Pháp xâm chiếm Bắc Mỹ",
+    "rubric": {
+      "excellent": "Trình bày đầy đủ 4 cuộc với người thực hiện, thời gian và địa điểm chính xác (1.0 điểm)",
+      "good": "Trình bày đủ 4 cuộc nhưng thiếu 1-2 yếu tố hoặc có sai sót nhỏ (0.75 điểm)",
+      "fair": "Chỉ trình bày được 2-3 cuộc hoặc thiếu nhiều thông tin (0.5 điểm)",
+      "poor": "Chỉ trình bày được 1 cuộc hoặc sai nhiều (0.25 điểm)"
+    }
+  },
+  {
+    "id": 22,
+    "type": "essay",
+    "question": "Phân tích vai trò và ý nghĩa của phong trào văn hóa Phục Hưng đối với châu Âu và thế giới.",
+    "points": 1.0,
+    "level": "vận dụng",
+    "sampleAnswer": "Phong trào văn hóa Phục Hưng có vai trò và ý nghĩa to lớn:\n\n**1. Về văn hóa - tư tưởng:**\n- Đề cao giá trị con người, lý trí và khoa học\n- Phê phán chủ nghĩa kinh viện và thần quyền của Nhà thờ\n- Phục hồi và phát triển văn hóa Hy Lạp - La Mã cổ đại\n- Tạo nền tảng cho chủ nghĩa nhân văn (humanism)\n\n**2. Về nghệ thuật:**\n- Ra đời nhiều tác phẩm nghệ thuật bất hủ: hội họa (Mô-na Li-da), điêu khắc (Đa-vít), văn học (Ha-mơ-lét, Thần khúc)\n- Nghệ thuật phản ánh chân thực cuộc sống con người\n- Ảnh hưởng sâu sắc đến nghệ thuật thế giới sau này\n\n**3. Về khoa học - kỹ thuật:**\n- Thúc đẩy khoa học phát triển: thiên văn học (Cô-péc-ních, Ga-li-lê), giải phẫu học, vật lý\n- Phát minh kỹ thuật: máy in (Gu-ten-bec), la bàn, súng đạn\n- Phương pháp nghiên cứu khoa học dựa trên thực nghiệm\n\n**4. Về kinh tế - xã hội:**\n- Giai cấp tư sản manh nha phát triển mạnh\n- Thúc đẩy thương mại, thủ công nghiệp\n- Tạo tiền đề cho các cuộc cách mạng tư sản\n\n**5. Ý nghĩa lịch sử:**\n- Đánh dấu sự chuyển biến từ thời trung cổ sang thời cận đại\n- Mở đường cho thời kỳ Khai sáng và các cuộc cách mạng\n- Ảnh hưởng toàn cầu, lan rộng ra khắp thế giới",
+    "rubric": {
+      "excellent": "Phân tích đầy đủ các mặt (văn hóa, nghệ thuật, khoa học, kinh tế-xã hội, ý nghĩa) với dẫn chứng cụ thể (1.0 điểm)",
+      "good": "Phân tích được 3-4 mặt nhưng chưa đầy đủ hoặc thiếu dẫn chứng (0.75 điểm)",
+      "fair": "Chỉ phân tích được 2 mặt hoặc chung chung (0.5 điểm)",
+      "poor": "Trả lời chưa đúng trọng tâm hoặc quá sơ sài (0.25 điểm)"
+    }
+  },
+  {
+    "id": 23,
+    "type": "essay",
+    "question": "So sánh dân số các châu lục năm 1950 và năm 2000 dựa vào bảng số liệu sau. Nhận xét về sự thay đổi dân số châu Âu.<br><br><div class='data-table-container'><table class='data-table'><caption><strong>Bảng: Dân số các châu lục năm 1950 và 2000</strong></caption><thead><tr><th>Châu lục</th><th>Năm 1950 (triệu người)</th><th>Năm 2000 (triệu người)</th></tr></thead><tbody><tr class='highlight'><td>Châu Âu</td><td>547</td><td>729</td></tr><tr><td>Châu Á</td><td>1.402</td><td>3.683</td></tr><tr><td>Châu Phi</td><td>221</td><td>784</td></tr><tr><td>Châu Mỹ</td><td>339</td><td>729</td></tr><tr><td>Châu Đại Dương</td><td>13</td><td>30,4</td></tr></tbody></table><p class='table-source'><em>(Nguồn: Liên hợp quốc)</em></p></div>",
+    "points": 0.5,
+    "level": "thông hiểu",
+    "sampleAnswer": "**So sánh dân số các châu lục:**\n\n**1. Về tốc độ tăng (1950-2000):**\n- Châu Á: tăng 2.281 triệu người (gấp 2,6 lần)\n- Châu Phi: tăng 563 triệu người (gấp 3,5 lần) - tăng nhanh nhất\n- Châu Mỹ: tăng 390 triệu người (gấp 2,15 lần)\n- Châu Âu: tăng 182 triệu người (chỉ gấp 1,33 lần) - tăng chậm nhất\n- Châu Đại Dương: tăng 17,4 triệu người (gấp 2,3 lần)\n\n**2. Về thứ hạng dân số:**\n- Năm 1950: Châu Á (1) > Châu Âu (2) > Châu Mỹ (3) > Châu Phi (4) > Châu Đại Dương (5)\n- Năm 2000: Châu Á (1) > Châu Phi (3) > Châu Âu (2) = Châu Mỹ (2) > Châu Đại Dương (5)\n\n**3. Nhận xét về châu Âu:**\n- Dân số tăng rất chậm (182 triệu trong 50 năm)\n- Tốc độ tăng thấp nhất trong các châu lục\n- Năm 2000, dân số châu Âu bằng châu Mỹ (729 triệu)\n- Nguyên nhân: tỷ lệ sinh thấp, dân số già hóa, trình độ phát triển cao\n- Hậu quả: thiếu lao động, áp lực lên hệ thống an sinh xã hội",
+    "rubric": {
+      "excellent": "So sánh đầy đủ, nhận xét chính xác về châu Âu với số liệu cụ thể và nguyên nhân (0.5 điểm)",
+      "good": "So sánh được nhưng thiếu một số yếu tố hoặc nguyên nhân (0.35-0.4 điểm)",
+      "fair": "Chỉ so sánh đơn giản hoặc nhận xét chung chung (0.25 điểm)",
+      "poor": "So sánh sai hoặc không đúng trọng tâm (0-0.15 điểm)"
+    }
+  },
+  {
+    "id": 24,
+    "type": "essay",
+    "question": "Nêu các đặc điểm nổi bật của dân cư và xã hội châu Âu hiện nay.",
+    "points": 0.5,
+    "level": "nhận biết",
+    "sampleAnswer": "**Các đặc điểm nổi bật của dân cư và xã hội châu Âu:**\n\n**1. Về cơ cấu dân số:**\n- Dân số già hóa nghiêm trọng: tỷ lệ người từ 65 tuổi trở lên khoảng 19-20% (cao nhất thế giới)\n- Tỷ lệ trẻ em (0-14 tuổi) thấp: chỉ khoảng 16%\n- Tỷ lệ giới tính: nhiều nữ hơn nam (tỷ lệ nam/nữ khoảng 96/100)\n\n**2. Về tăng trưởng dân số:**\n- Tốc độ tăng dân số rất chậm, có nơi giảm dân số\n- Tỷ lệ sinh thấp (dưới mức thay thế)\n- Một số nước có dân số suy giảm tự nhiên\n\n**3. Về trình độ và đời sống:**\n- Trình độ học vấn cao: phổ cập giáo dục đại học\n- Tỷ lệ biết chữ gần 100%\n- Đời sống vật chất và tinh thần cao\n- Hệ thống y tế, phúc lợi xã hội phát triển\n\n**4. Về phân bố và đô thị hóa:**\n- Mật độ dân số cao trung bình (72 người/km²)\n- Tỷ lệ dân thành thị cao (trên 70%)\n- Phân bố không đều: tập trung ở vùng công nghiệp, ven biển\n\n**5. Về dân tộc và ngôn ngữ:**\n- Đa dạng dân tộc: Indo-Âu (chiếm đa số), Ugro-Phần Lan, Thổ Nhĩ Kỳ...\n- Nhiều ngôn ngữ khác nhau nhưng giao tiếp được nhờ giáo dục\n- Tăng cường hội nhập nhờ EU",
+    "rubric": {
+      "excellent": "Nêu đầy đủ 4-5 đặc điểm với giải thích cụ thể và số liệu (0.5 điểm)",
+      "good": "Nêu được 3-4 đặc điểm nhưng chưa đầy đủ (0.35-0.4 điểm)",
+      "fair": "Chỉ nêu được 2 đặc điểm hoặc quá chung chung (0.25 điểm)",
+      "poor": "Nêu ít đặc điểm hoặc không đúng (0-0.15 điểm)"
+    }
+  }
+]

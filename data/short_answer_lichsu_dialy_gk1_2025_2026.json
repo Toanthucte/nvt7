@@ -1,0 +1,30 @@
+[
+  {
+    "id": 19,
+    "type": "short-answer",
+    "question": "EU đã thiết lập thị trường chung vào năm nào? Có bao nhiêu quốc gia tham gia ban đầu?",
+    "answer": "Năm 1993; 12 quốc gia",
+    "points": 0.5,
+    "rubric": {
+      "full": "Trả lời đúng cả năm và số quốc gia (0.5 điểm)",
+      "partial": "Trả lời đúng một trong hai yếu tố (0.25 điểm)",
+      "incorrect": "Không trả lời hoặc trả lời sai cả hai (0 điểm)"
+    },
+    "keywords": ["1993", "12"],
+    "explanation": "EU chính thức thiết lập thị trường chung năm 1993 theo Hiệp ước Maastricht, với 12 quốc gia thành viên lúc đó."
+  },
+  {
+    "id": 20,
+    "type": "short-answer",
+    "question": "Năm 2020, GDP của châu Âu đạt khoảng bao nhiêu? Châu Âu là trung tâm dịch vụ và công nghiệp lớn thứ mấy trên thế giới?",
+    "answer": "Khoảng 17 nghìn tỷ USD (hoặc 17.000 tỷ USD); Thứ hai",
+    "points": 0.5,
+    "rubric": {
+      "full": "Trả lời đúng cả GDP và thứ hạng (0.5 điểm)",
+      "partial": "Trả lời đúng một trong hai yếu tố (0.25 điểm)",
+      "incorrect": "Không trả lời hoặc trả lời sai cả hai (0 điểm)"
+    },
+    "keywords": ["17", "nghìn tỷ", "USD", "thứ hai", "2"],
+    "explanation": "Năm 2020, GDP của châu Âu đạt khoảng 17 nghìn tỷ USD. Châu Âu là trung tâm dịch vụ và công nghiệp lớn thứ hai thế giới (sau Mỹ, trước Trung Quốc)."
+  }
+]

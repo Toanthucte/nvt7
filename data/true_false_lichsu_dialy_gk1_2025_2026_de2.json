@@ -1,0 +1,200 @@
+[
+  {
+    "id": 13,
+    "type": "true-false",
+    "question": "Xét tính đúng, sai của các phát biểu sau về quý tộc quân sự trong xã hội phong kiến Tây Âu:",
+    "statements": [
+      {
+        "id": "a",
+        "text": "Quý tộc quân sự là giai cấp thống trị",
+        "correct": true,
+        "explanation": "ĐÚNG. Quý tộc quân sự (lãnh chúa) là giai cấp thống trị trong xã hội phong kiến Tây Âu."
+      },
+      {
+        "id": "b",
+        "text": "Họ sở hữu ruộng đất và thu thuế từ nông nô",
+        "correct": true,
+        "explanation": "ĐÚNG. Họ sở hữu ruộng đất và thu thuế, tô thuế từ nông nô làm việc trên lãnh địa."
+      },
+      {
+        "id": "c",
+        "text": "Quý tộc quân sự bị áp bức bởi lãnh chúa",
+        "correct": false,
+        "explanation": "SAI. Quý tộc quân sự chính là lãnh chúa, họ áp bức nông nô chứ không bị áp bức."
+      },
+      {
+        "id": "d",
+        "text": "Họ có nhiệm vụ bảo vệ lãnh địa và tham gia chiến tranh",
+        "correct": true,
+        "explanation": "ĐÚNG. Quý tộc quân sự có nhiệm vụ bảo vệ lãnh địa và tham gia các cuộc chiến tranh theo lệnh của vua hoặc lãnh chúa cấp trên."
+      }
+    ],
+    "points": 0.5,
+    "topic": "Phong kiến Tây Âu"
+  },
+  {
+    "id": 14,
+    "type": "true-false",
+    "question": "Xét tính đúng, sai của các phát biểu sau về sự ra đời của thành thị trung đại:",
+    "statements": [
+      {
+        "id": "a",
+        "text": "Thành thị ra đời phá vỡ nền kinh tế tự cung tự cấp của lãnh địa",
+        "correct": true,
+        "explanation": "ĐÚNG. Thành thị ra đời đã phá vỡ nền kinh tế khép kín tự cung tự cấp của lãnh địa phong kiến."
+      },
+      {
+        "id": "b",
+        "text": "Thành thị dẫn đến sự xuất hiện của tầng lớp thương nhân",
+        "correct": true,
+        "explanation": "ĐÚNG. Thành thị đã tạo điều kiện cho sự xuất hiện và phát triển của tầng lớp thương nhân, thủ công nghiệp."
+      },
+      {
+        "id": "c",
+        "text": "Thành thị không có ảnh hưởng gì đến xã hội phong kiến",
+        "correct": false,
+        "explanation": "SAI. Thành thị có ảnh hưởng lớn, thúc đẩy sự biến đổi kinh tế-xã hội và manh nha chủ nghĩa tư bản."
+      },
+      {
+        "id": "d",
+        "text": "Thành thị trở thành trung tâm thủ công nghiệp và thương mại",
+        "correct": true,
+        "explanation": "ĐÚNG. Thành thị trung đại trở thành trung tâm thủ công nghiệp và thương mại quan trọng."
+      }
+    ],
+    "points": 0.5,
+    "topic": "Phong kiến Tây Âu"
+  },
+  {
+    "id": 15,
+    "type": "true-false",
+    "question": "Xét tính đúng, sai của các phát biểu sau về Đế chế La Mã:",
+    "statements": [
+      {
+        "id": "a",
+        "text": "Đế chế La Mã suy yếu vào thế kỷ III-V",
+        "correct": true,
+        "explanation": "ĐÚNG. Đế chế La Mã cổ đại suy yếu vào thế kỷ III-V do nhiều nguyên nhân chính trị, kinh tế và xâm lược từ bên ngoài."
+      },
+      {
+        "id": "b",
+        "text": "Năm 395, Đế chế La Mã bị chia thành 2 phần: La Mã Đông và La Mã Tây",
+        "correct": true,
+        "explanation": "ĐÚNG. Năm 395, Đế chế La Mã bị chia thành 2 phần: La Mã Đông (thủ đô Constantinople) và La Mã Tây (thủ đô Rome)."
+      },
+      {
+        "id": "c",
+        "text": "Năm 476, Đế chế La Mã Đông sụp đổ",
+        "correct": false,
+        "explanation": "SAI. Năm 476, Đế chế La Mã TÂY sụp đổ, còn La Mã Đông (Đế chế Byzantine) tồn tại đến năm 1453."
+      },
+      {
+        "id": "d",
+        "text": "Sự sụp đổ của La Mã đánh dấu kết thúc thời cổ đại ở châu Âu",
+        "correct": true,
+        "explanation": "ĐÚNG. Sự sụp đổ của La Mã Tây năm 476 đánh dấu kết thúc thời cổ đại và bắt đầu thời trung cổ ở châu Âu."
+      }
+    ],
+    "points": 0.5,
+    "topic": "Phong kiến Tây Âu"
+  },
+  {
+    "id": 16,
+    "type": "true-false",
+    "question": "Xét tính đúng, sai của các phát biểu sau về tác phẩm nghệ thuật thời Phục Hưng:",
+    "statements": [
+      {
+        "id": "a",
+        "text": "Tranh Nàng Mô-na Li-da là tác phẩm của Lê-ô-na đờ Vanh-xi",
+        "correct": true,
+        "explanation": "ĐÚNG. Bức tranh Nàng Mô-na Li-da (Mona Lisa) là kiệt tác hội họa của Lê-ô-na đờ Vanh-xi (Leonardo da Vinci)."
+      },
+      {
+        "id": "b",
+        "text": "Tượng Đa-vít là tác phẩm của W. Sếch-xpia",
+        "correct": false,
+        "explanation": "SAI. Tượng Đa-vít là tác phẩm điêu khắc của Mi-ken-lăng-giơ (Michelangelo), không phải của W. Sếch-xpia (văn hào)."
+      },
+      {
+        "id": "c",
+        "text": "Bi kịch Ha-mơ-lét là tác phẩm văn học nổi tiếng",
+        "correct": true,
+        "explanation": "ĐÚNG. Bi kịch Ha-mơ-lét (Hamlet) là một trong những tác phẩm văn học nổi tiếng nhất của W. Sếch-xpia."
+      },
+      {
+        "id": "d",
+        "text": "Thần khúc của Đan-tê được viết bằng tiếng Ý",
+        "correct": true,
+        "explanation": "ĐÚNG. Thần khúc (Divine Comedy) của Đan-tê (Dante) được viết bằng tiếng Ý dân tộc, không phải tiếng La-tinh."
+      }
+    ],
+    "points": 0.5,
+    "topic": "Văn hóa Phục Hưng"
+  },
+  {
+    "id": 17,
+    "type": "true-false",
+    "question": "Xét tính đúng, sai của các phát biểu sau về vị trí địa lí châu Âu:",
+    "statements": [
+      {
+        "id": "a",
+        "text": "Châu Âu nằm ở phía Tây của lục địa Á-Âu",
+        "correct": true,
+        "explanation": "ĐÚNG. Châu Âu nằm ở phía Tây của lục địa Á-Âu (lục địa liền), còn châu Á nằm ở phía Đông."
+      },
+      {
+        "id": "b",
+        "text": "Phía Bắc châu Âu giáp Bắc Băng Dương",
+        "correct": true,
+        "explanation": "ĐÚNG. Phía Bắc châu Âu giáp Bắc Băng Dương với các biển thuộc Bắc Băng Dương."
+      },
+      {
+        "id": "c",
+        "text": "Phía Nam châu Âu giáp Ấn Độ Dương",
+        "correct": false,
+        "explanation": "SAI. Phía Nam châu Âu giáp Địa Trung Hải, không phải Ấn Độ Dương (Ấn Độ Dương ở phía Nam châu Á)."
+      },
+      {
+        "id": "d",
+        "text": "Phía Đông châu Âu giáp với châu Á",
+        "correct": true,
+        "explanation": "ĐÚNG. Phía Đông châu Âu giáp với châu Á, ranh giới là dãy núi U-ran, sông Ural và biển Caspi."
+      }
+    ],
+    "points": 0.5,
+    "topic": "Thiên nhiên châu Âu"
+  },
+  {
+    "id": 18,
+    "type": "true-false",
+    "question": "Xét tính đúng, sai của các phát biểu sau về dân cư châu Âu năm 2020:",
+    "statements": [
+      {
+        "id": "a",
+        "text": "Tỷ lệ dân số từ 0-14 tuổi chiếm khoảng 16%",
+        "correct": true,
+        "explanation": "ĐÚNG. Năm 2020, tỷ lệ dân số từ 0-14 tuổi ở châu Âu chiếm khoảng 16% (tỷ lệ thấp so với các châu lục khác)."
+      },
+      {
+        "id": "b",
+        "text": "Tỷ lệ dân số từ 15-64 tuổi chiếm khoảng 65%",
+        "correct": true,
+        "explanation": "ĐÚNG. Tỷ lệ dân số trong độ tuổi lao động (15-64 tuổi) chiếm khoảng 65%."
+      },
+      {
+        "id": "c",
+        "text": "Tỷ lệ dân số từ 65 tuổi trở lên chiếm khoảng 50%",
+        "correct": false,
+        "explanation": "SAI. Tỷ lệ dân số từ 65 tuổi trở lên chiếm khoảng 19-20%, không phải 50%."
+      },
+      {
+        "id": "d",
+        "text": "Châu Âu có tình trạng dân số già hóa nghiêm trọng",
+        "correct": true,
+        "explanation": "ĐÚNG. Châu Âu có tình trạng dân số già hóa nghiêm trọng do tỷ lệ sinh thấp và tuổi thọ cao."
+      }
+    ],
+    "points": 0.5,
+    "topic": "Dân cư châu Âu"
+  }
+]

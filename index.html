@@ -1,0 +1,480 @@
+<!DOCTYPE html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Đến hẹn lại lên - Lớp 7</title>
+    
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter+Tight:ital,wght@0,100..900;1,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Source+Serif+4:ital,opsz,wght@0,8..60,200..900;1,8..60,200..900&display=swap" rel="stylesheet">
+    
+    <link rel="stylesheet" href="main.css" />
+    <!-- MathJax for LaTeX rendering -->
+    <script>
+      window.MathJax = {
+        tex: {
+          inlineMath: [
+            ['$', '$'],
+            ['\\(', '\\)'],
+          ],
+          displayMath: [
+            ['$$', '$$'],
+            ['\\[', '\\]'],
+          ],
+        },
+      }
+    </script>
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <script
+      id="MathJax-script"
+      async
+      src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+    ></script>
+  </head>
+  <body>
+    <header>
+      <h1>Đến hẹn lại lên - Lớp 7</h1>
+      <button id="sound-toggle" class="sound-toggle" aria-label="Bật/tắt âm thanh">
+        🔊
+      </button>
+      <nav>
+        <ul>
+          <li><a href="#lsdl">Lịch sử & Địa lí</a></li>
+          <li><a href="#khtn">Khoa học tự nhiên</a></li>
+          <li><a href="#toan">Toán học</a></li>
+          <li><a href="#van">Văn học</a></li>
+          <li><a href="#nn">Ngoại ngữ</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <!-- Mỗi phần môn là một section -->
+      <section id="lsdl">
+        <h2>Lịch sử & Địa lí</h2>
+        <div class="ky">
+          <h3>Giữa kì 1</h3>
+          <ul>
+            <li>
+              Kiểm tra định kì
+              <ul>
+                <li>Định kì lần 1</li>
+                <li>Định kì lần 2</li>
+                <li>Định kì lần 3</li>
+              </ul>
+            </li>
+            <li>
+              <button onclick="startLichSuDiaLiGK1Quiz()">Thi Giữa kì 1 (2024-2025)</button>
+            </li>
+            <li>
+              <button onclick="startLichSuDiaLiGK1_2025_2026_Quiz()" style="background: #28a745; border: 2px solid #1e7e34;">🆕 Thi GK1 (2025-2026) - Đề 1</button>
+            </li>
+            <li>
+              <button onclick="startLichSuDiaLiGK1_2025_2026_De2_Quiz()" style="background: #17a2b8; border: 2px solid #117a8b;">📝 Thi GK1 (2025-2026) - Đề 2</button>
+            </li>
+          </ul>
+        </div>
+        <div class="ky">
+          <h3>Cuối kì 1</h3>
+          <ul>
+            <li>
+              Kiểm tra định kì
+              <ul>
+                <li>Định kì lần 1</li>
+                <li>Định kì lần 2</li>
+                <li>Định kì lần 3</li>
+              </ul>
+            </li>
+            <li>
+              <button onclick="startLichSuDiaLiCK1Quiz()">Thi Cuối kì 1 (2024-2025)</button>
+            </li>
+          </ul>
+        </div>
+        <div class="ky">
+          <h3>Giữa kì 2</h3>
+          <ul>
+            <li>
+              Kiểm tra định kì
+              <ul>
+                <li>Định kì lần 1</li>
+                <li>Định kì lần 2</li>
+                <li>Định kì lần 3</li>
+              </ul>
+            </li>
+            <li>
+              <button onclick="comingSoon()">Thi Giữa kì 2</button>
+            </li>
+          </ul>
+        </div>
+        <div class="ky">
+          <h3>Cuối kì 2</h3>
+          <ul>
+            <li>
+              Kiểm tra định kì
+              <ul>
+                <li>Định kì lần 1</li>
+                <li>Định kì lần 2</li>
+                <li>Định kì lần 3</li>
+              </ul>
+            </li>
+            <li>
+              <button onclick="comingSoon()">Thi Cuối kì 2</button>
+            </li>
+          </ul>
+        </div>
+      </section>
+      <!-- Lặp lại cấu trúc trên cho các môn khác -->
+      <section id="khtn">
+        <h2>Khoa học tự nhiên</h2>
+        <!-- ...cấu trúc giống như trên... -->
+        <div class="ky">
+          <h3>Giữa kì 1</h3>
+          <ul>
+            <li>
+              Kiểm tra định kì
+              <ul>
+                <li>Định kì lần 1</li>
+                <li>Định kì lần 2</li>
+                <li>Định kì lần 3</li>
+              </ul>
+            </li>
+            <li>
+              <button onclick="startKHTNQuiz()">Thi Giữa kì 1 (2024-2025)</button>
+            </li>
+          </ul>
+        </div>
+        <div class="ky">
+          <h3>Cuối kì 1</h3>
+          <ul>
+            <li>
+              Kiểm tra định kì
+              <ul>
+                <li>Định kì lần 1</li>
+                <li>Định kì lần 2</li>
+                <li>Định kì lần 3</li>
+              </ul>
+            </li>
+            <li>
+              <button onclick="comingSoon()">Thi Cuối kì 1</button>
+            </li>
+          </ul>
+        </div>
+        <div class="ky">
+          <h3>Giữa kì 2</h3>
+          <ul>
+            <li>
+              Kiểm tra định kì
+              <ul>
+                <li>Định kì lần 1</li>
+                <li>Định kì lần 2</li>
+                <li>Định kì lần 3</li>
+              </ul>
+            </li>
+            <li>
+              <button onclick="comingSoon()">Thi Giữa kì 2</button>
+            </li>
+          </ul>
+        </div>
+        <div class="ky">
+          <h3>Cuối kì 2</h3>
+          <ul>
+            <li>
+              Kiểm tra định kì
+              <ul>
+                <li>Định kì lần 1</li>
+                <li>Định kì lần 2</li>
+                <li>Định kì lần 3</li>
+              </ul>
+            </li>
+            <li>
+              <button onclick="comingSoon()">Thi Cuối kì 2</button>
+            </li>
+          </ul>
+        </div>
+      </section>
+      <section id="toan">
+        <h2>Toán học</h2>
+        <!-- ...cấu trúc giống như trên... -->
+        <div class="ky">
+          <h3>Giữa kì 1</h3>
+          <ul>
+            <li>
+              Kiểm tra định kì
+              <ul>
+                <li>Định kì lần 1</li>
+                <li>Định kì lần 2</li>
+                <li>Định kì lần 3</li>
+              </ul>
+            </li>
+            <li>
+              <button onclick="comingSoon()">Thi Giữa kì 1</button>
+            </li>
+          </ul>
+        </div>
+        <div class="ky">
+          <h3>Cuối kì 1</h3>
+          <ul>
+            <li>
+              Kiểm tra định kì
+              <ul>
+                <li>Định kì lần 1</li>
+                <li>Định kì lần 2</li>
+                <li>Định kì lần 3</li>
+              </ul>
+            </li>
+            <li>
+              <button onclick="comingSoon()">Thi Cuối kì 1</button>
+            </li>
+          </ul>
+        </div>
+        <div class="ky">
+          <h3>Giữa kì 2</h3>
+          <ul>
+            <li>
+              Kiểm tra định kì
+              <ul>
+                <li>Định kì lần 1</li>
+                <li>Định kì lần 2</li>
+                <li>Định kì lần 3</li>
+              </ul>
+            </li>
+            <li>
+              <button onclick="comingSoon()">Thi Giữa kì 2</button>
+            </li>
+          </ul>
+        </div>
+        <div class="ky">
+          <h3>Cuối kì 2</h3>
+          <ul>
+            <li>
+              Kiểm tra định kì
+              <ul>
+                <li>Định kì lần 1</li>
+                <li>Định kì lần 2</li>
+                <li>Định kì lần 3</li>
+              </ul>
+            </li>
+            <li>
+              <button onclick="comingSoon()">Thi Cuối kì 2</button>
+            </li>
+          </ul>
+        </div>
+      </section>
+      <section id="van">
+        <h2>Văn học</h2>
+        <!-- ...cấu trúc giống như trên... -->
+        <div class="ky">
+          <h3>Giữa kì 1</h3>
+          <ul>
+            <li>
+              Kiểm tra định kì
+              <ul>
+                <li>Định kì lần 1</li>
+                <li>Định kì lần 2</li>
+                <li>Định kì lần 3</li>
+              </ul>
+            </li>
+            <li>
+              <button onclick="comingSoon()">Thi Giữa kì 1</button>
+            </li>
+          </ul>
+        </div>
+        <div class="ky">
+          <h3>Cuối kì 1</h3>
+          <ul>
+            <li>
+              Kiểm tra định kì
+              <ul>
+                <li>Định kì lần 1</li>
+                <li>Định kì lần 2</li>
+                <li>Định kì lần 3</li>
+              </ul>
+            </li>
+            <li>
+              <button onclick="comingSoon()">Thi Cuối kì 1</button>
+            </li>
+          </ul>
+        </div>
+        <div class="ky">
+          <h3>Giữa kì 2</h3>
+          <ul>
+            <li>
+              Kiểm tra định kì
+              <ul>
+                <li>Định kì lần 1</li>
+                <li>Định kì lần 2</li>
+                <li>Định kì lần 3</li>
+              </ul>
+            </li>
+            <li>
+              <button onclick="comingSoon()">Thi Giữa kì 2</button>
+            </li>
+          </ul>
+        </div>
+        <div class="ky">
+          <h3>Cuối kì 2</h3>
+          <ul>
+            <li>
+              Kiểm tra định kì
+              <ul>
+                <li>Định kì lần 1</li>
+                <li>Định kì lần 2</li>
+                <li>Định kì lần 3</li>
+              </ul>
+            </li>
+            <li>
+              <button onclick="comingSoon()">Thi Cuối kì 2</button>
+            </li>
+          </ul>
+        </div>
+      </section>
+      <section id="nn">
+        <h2>Ngoại ngữ</h2>
+        <!-- ...cấu trúc giống như trên... -->
+        <div class="ky">
+          <h3>Giữa kì 1</h3>
+          <ul>
+            <li>
+              Kiểm tra định kì
+              <ul>
+                <li>Định kì lần 1</li>
+                <li>Định kì lần 2</li>
+                <li>Định kì lần 3</li>
+              </ul>
+            </li>
+            <li>
+              <button onclick="comingSoon()">Thi Giữa kì 1</button>
+            </li>
+          </ul>
+        </div>
+        <div class="ky">
+          <h3>Cuối kì 1</h3>
+          <ul>
+            <li>
+              Kiểm tra định kì
+              <ul>
+                <li>Định kì lần 1</li>
+                <li>Định kì lần 2</li>
+                <li>Định kì lần 3</li>
+              </ul>
+            </li>
+            <li>
+              <button onclick="comingSoon()">Thi Cuối kì 1</button>
+            </li>
+          </ul>
+        </div>
+        <div class="ky">
+          <h3>Giữa kì 2</h3>
+          <ul>
+            <li>
+              Kiểm tra định kì
+              <ul>
+                <li>Định kì lần 1</li>
+                <li>Định kì lần 2</li>
+                <li>Định kì lần 3</li>
+              </ul>
+            </li>
+            <li>
+              <button onclick="comingSoon()">Thi Giữa kì 2</button>
+            </li>
+          </ul>
+        </div>
+        <div class="ky">
+          <h3>Cuối kì 2</h3>
+          <ul>
+            <li>
+              Kiểm tra định kì
+              <ul>
+                <li>Định kì lần 1</li>
+                <li>Định kì lần 2</li>
+                <li>Định kì lần 3</li>
+              </ul>
+            </li>
+            <li>
+              <button onclick="comingSoon()">Thi Cuối kì 2</button>
+            </li>
+          </ul>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <p>&copy; 2025 Đến hẹn lại lên - Lớp 7</p>
+    </footer>
+
+    <!-- Scripts -->
+    <script src="main.js"></script>
+    <script src="atom-question.js"></script>
+    <script src="fill-blank-question.js"></script>
+    <script src="essay-questions.js"></script>
+    <script src="khtn-quiz.js"></script>
+
+    <!-- Test MathJax rendering -->
+    <!-- Test scripts commented out -->
+    <!--
+    <script>
+      // Test MathJax rendering khi trang load xong
+      window.addEventListener('load', function () {
+        console.log('MathJax loaded:', !!window.MathJax)
+
+        // Test rendering một công thức đơn giản
+        const testDiv = document.createElement('div')
+        testDiv.innerHTML = '<p>Test LaTeX: $H_2O$, $CO_2$, $NaCl$</p>'
+        testDiv.style.position = 'fixed'
+        testDiv.style.top = '10px'
+        testDiv.style.right = '10px'
+        testDiv.style.background = 'yellow'
+        testDiv.style.padding = '10px'
+        testDiv.style.fontSize = '12px'
+        testDiv.style.zIndex = '9999'
+        document.body.appendChild(testDiv)
+
+        if (window.MathJax) {
+          MathJax.typesetPromise([testDiv])
+            .then(() => {
+              console.log('MathJax test completed')
+            })
+            .catch((err) => {
+              console.error('MathJax test failed:', err)
+            })
+        }
+
+        // Auto load quiz sau 2 giây để test
+        setTimeout(async () => {
+          console.log('Auto loading quiz for testing...')
+          if (typeof loadQuizData === 'function') {
+            try {
+              await loadQuizData()
+              console.log('Quiz data loaded, starting quiz...')
+              await startKHTNQuiz()
+            } catch (error) {
+              console.error('Error auto-loading quiz:', error)
+            }
+          }
+        }, 2000)
+
+        // Thêm nút test essay
+        const testButton = document.createElement('button')
+        testButton.innerText = 'TEST ESSAY SECTION'
+        testButton.style.cssText =
+          'position: fixed; top: 100px; right: 10px; z-index: 9999; padding: 10px; background: red; color: white;'
+        testButton.onclick = function () {
+          console.log('Test essay button clicked')
+          if (typeof showEssaySection === 'function') {
+            showEssaySection()
+          } else {
+            console.error('showEssaySection function not found')
+          }
+        }
+        document.body.appendChild(testButton)
+      })
+    </script>
+    -->
+    <script src="sound.js"></script>
+    <script src="lichsu-dialy-quiz.js"></script>
+    <script src="lichsu-dialy-gk1-quiz.js"></script>
+    <script src="lichsu-dialy-gk1-2025-2026-quiz.js"></script>
+    <script src="lichsu-dialy-gk1-2025-2026-de2-quiz.js"></script>
+  </body>
+</html>

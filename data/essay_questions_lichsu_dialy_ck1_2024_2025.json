@@ -1,0 +1,125 @@
+[
+  {
+    "id": 20,
+    "type": "essay",
+    "question": "Em hãy lập sơ đồ tiến trình phát triển của Trung Quốc từ thế kỉ VII đến giữa thế kỉ XIX.",
+    "points": 1.0,
+    "guidelines": [
+      "Trình bày được lịch sử Trung Quốc qua các triều đại chính: Đường, Minh, Thanh",
+      "Nêu được mốc thời gian và sự kiện quan trọng",
+      "Sơ đồ rõ ràng, có tính logic"
+    ],
+    "sampleAnswer": "Sơ đồ tiến trình phát triển của Trung Quốc:\n\n1. NHÀ ĐƯỜNG (Thế kỷ VII - 907)\n   - Thời kỳ thịnh vượng\n   - Phát triển kinh tế, văn hóa\n   - Mở rộng lãnh thổ\n   ↓\n2. THỜI KỲ PHÂN TÁCH (907 - 1368)\n   - Nhiều triều đại nhỏ cai trị\n   - Người Mông Cổ thành lập nhà Nguyên\n   ↓\n3. NHÀ MINH (1368 - 1644)\n   - Chu Nguyên Chương lập ra năm 1368\n   - Phát triển thủ công nghiệp, thương nghiệp\n   - Văn hóa phát triển rực rỡ\n   ↓\n4. NHÀ THANH (1645 - 1911)\n   - Người Mãn tộc lập ra năm 1645\n   - Đầu thời kỳ thịnh vượng\n   - Giữa thế kỷ XIX: Suy yếu, bị các nước phương Tây xâm lược",
+    "rubric": {
+      "excellent": "0.9-1.0 điểm: Sơ đồ đầy đủ các triều đại, mốc thời gian chính xác, nêu rõ đặc điểm từng giai đoạn, trình bày logic, rõ ràng",
+      "good": "0.7-0.8 điểm: Nêu được các triều đại chính, mốc thời gian cơ bản đúng, có một số đặc điểm",
+      "fair": "0.5-0.6 điểm: Nêu được một số triều đại, mốc thời gian chưa chính xác, thiếu đặc điểm",
+      "poor": "0-0.4 điểm: Thiếu nhiều thông tin, sai thời gian, không có tính logic"
+    }
+  },
+  {
+    "id": 21,
+    "type": "essay",
+    "question": "a) Trình bày thành tựu văn hóa của Trung Quốc từ thế kỉ VII đến giữa thế kỉ XIX thông qua bốn tiêu thuyết đạt đỉnh cao dưới thời Minh - Thanh.\n\nb) Các thành tựu văn hóa tiêu biểu của Trung Quốc (thế kỉ VII - giữa thế kỉ XIX) còn ảnh hưởng đến văn hóa Trung Quốc ngày nay hay không? Em hãy dẫn chứng bằng ví dụ.",
+    "points": 1.0,
+    "parts": [
+      {
+        "part": "a",
+        "question": "Trình bày thành tựu văn hóa của Trung Quốc từ thế kỉ VII đến giữa thế kỉ XIX thông qua bốn tiêu thuyết đạt đỉnh cao dưới thời Minh - Thanh.",
+        "points": 0.5,
+        "guidelines": [
+          "Nêu được tên bốn tiêu thuyết nổi tiếng",
+          "Trình bày được nội dung chính hoặc ý nghĩa của các tác phẩm"
+        ],
+        "sampleAnswer": "Bốn tiêu thuyết đạt đỉnh cao dưới thời Minh - Thanh:\n1. Tam Quốc Diễn Nghĩa (La Quán Trung) - kể về thời kỳ Tam Quốc phân tranh\n2. Thủy Hử (Thi Nại Am) - về cuộc khởi nghĩa nông dân\n3. Tây Du Ký (Ngô Thừa Ân) - về hành trình thỉnh kinh của Đường Tăng\n4. Hồng Lâu Mộng (Tào Tuyết Cần) - phản ánh cuộc sống phong kiến\n\nÝ nghĩa: Các tác phẩm phản ánh đời sống xã hội, tâm tư tình cảm con người, có giá trị văn học cao, ảnh hưởng sâu rộng đến văn hóa Trung Quốc và thế giới."
+      },
+      {
+        "part": "b",
+        "question": "Các thành tựu văn hóa tiêu biểu của Trung Quốc (thế kỉ VII - giữa thế kỉ XIX) còn ảnh hưởng đến văn hóa Trung Quốc ngày nay hay không? Em hãy dẫn chứng bằng ví dụ.",
+        "points": 0.5,
+        "guidelines": [
+          "Đưa ra được nhận xét về ảnh hưởng (có/không)",
+          "Có ít nhất 1-2 ví dụ minh họa cụ thể"
+        ],
+        "sampleAnswer": "Các thành tựu văn hóa thời kỳ này vẫn còn ảnh hưởng sâu sắc đến văn hóa Trung Quốc ngày nay:\n\n- Văn học: Bốn tiêu thuyết nổi tiếng vẫn được đọc rộng rãi, được chuyển thể thành phim, kịch, truyện tranh. Ví dụ: Tam Quốc Diễn Nghĩa được làm thành nhiều bộ phim và game.\n\n- Tư tưởng: Các giá trị đạo đức, triết lý sống trong các tác phẩm vẫn được truyền dạy và học tập.\n\n- Nghệ thuật: Kiến trúc, hội họa, thư pháp thời kỳ này vẫn là mẫu mực để học hỏi.\n\n- Du lịch: Nhiều di tích văn hóa từ thời Minh - Thanh như Tử Cấm Thành, Vạn Lý Trường Thành thu hút khách du lịch."
+      }
+    ],
+    "rubric": {
+      "excellent": "0.9-1.0 điểm: Nêu đầy đủ 4 tiêu thuyết với tên tác giả, có ý nghĩa; phần b có nhận xét rõ ràng và 2-3 ví dụ cụ thể",
+      "good": "0.7-0.8 điểm: Nêu được 3-4 tiêu thuyết, có ý nghĩa cơ bản; phần b có nhận xét và 1-2 ví dụ",
+      "fair": "0.5-0.6 điểm: Nêu được 2-3 tiêu thuyết; phần b có nhận xét nhưng ví dụ chưa rõ",
+      "poor": "0-0.4 điểm: Nêu dưới 2 tiêu thuyết hoặc sai; phần b không có ví dụ minh họa"
+    }
+  },
+  {
+    "id": 22,
+    "type": "essay",
+    "question": "Em hãy: a) Trình bày được ý nghĩa của đặc điểm sống hồ đới với sự sống và bảo vệ tự nhiên.\n\nb) So sánh sự khác nhau về đặc điểm địa hình ở khu vực Bắc Á và Trung Á.",
+    "points": 1.0,
+    "parts": [
+      {
+        "part": "a",
+        "question": "Trình bày được ý nghĩa của đặc điểm sống hồ đới với sự sống và bảo vệ tự nhiên.",
+        "points": 0.5,
+        "guidelines": [
+          "Nêu được đặc điểm của vùng hồ đới",
+          "Phân tích ý nghĩa với đời sống và bảo vệ tự nhiên"
+        ],
+        "sampleAnswer": "Đặc điểm sống hồ đới:\n- Sống hồ đới là vùng có rừng lá kim rộng lớn, khí hậu lạnh\n- Có tầng băng tuyết phủ dày trong mùa đông\n\nÝ nghĩa:\n- Với đời sống: Cung cấp gỗ xây dựng, nhiên liệu; môi trường sống của nhiều loài động vật quý hiếm; du lịch sinh thái\n- Với bảo vệ tự nhiên: Là 'lá phổi xanh' của Trái Đất, hấp thụ CO2, điều hòa khí hậu; bảo vệ nguồn nước; ngăn chặn xói mòn đất; bảo tồn đa dạng sinh học"
+      },
+      {
+        "part": "b",
+        "question": "So sánh sự khác nhau về đặc điểm địa hình ở khu vực Bắc Á và Trung Á.",
+        "points": 0.5,
+        "guidelines": [
+          "Nêu được đặc điểm địa hình của Bắc Á",
+          "Nêu được đặc điểm địa hình của Trung Á",
+          "So sánh và chỉ ra sự khác biệt"
+        ],
+        "sampleAnswer": "So sánh địa hình Bắc Á và Trung Á:\n\nBẮC Á:\n- Địa hình tương đối bằng phẳng, thấp\n- Có đồng bằng Si-be-ri rộng lớn\n- Có cao nguyên Trung Si-be-ri\n- Độ cao trung bình thấp\n\nTRUNG Á:\n- Địa hình cao, hiểm trở\n- Có nhiều cao nguyên, núi cao (cao nguyên Tây Tạng, dãy Himalaya)\n- Là 'nóc nhà' của châu Á và thế giới\n- Độ cao trung bình rất lớn (trên 4000m)\n\nSự khác biệt chính: Bắc Á có địa hình thấp, bằng phẳng; Trung Á có địa hình cao nhất châu Á và thế giới."
+      }
+    ],
+    "rubric": {
+      "excellent": "0.9-1.0 điểm: Phần a nêu rõ đặc điểm và ý nghĩa đầy đủ; phần b so sánh chi tiết, rõ ràng",
+      "good": "0.7-0.8 điểm: Phần a có đặc điểm và ý nghĩa cơ bản; phần b so sánh được các điểm chính",
+      "fair": "0.5-0.6 điểm: Phần a thiếu đặc điểm hoặc ý nghĩa; phần b chưa so sánh rõ",
+      "poor": "0-0.4 điểm: Cả hai phần đều thiếu nội dung hoặc sai"
+    }
+  },
+  {
+    "id": 23,
+    "type": "essay-data-analysis",
+    "question": "Em hãy nhận xét sự thay đổi số dân và tỉ lệ thành thị của châu Á trong giai đoạn 2005 - 2020.",
+    "points": 1.0,
+    "data": {
+      "title": "Bảng số liệu về số dân và tỉ lệ thành thị của châu Á (không tính số dân của Liên bang Nga) giai đoạn 2005 - 2020",
+      "source": "Trang 119, Sách Lịch sử - Địa lí 7, bộ Chân trời sáng tạo",
+      "table": {
+        "headers": ["Năm", "2005", "2010", "2015", "2020"],
+        "rows": [
+          {
+            "label": "Số dân (tỉ người)",
+            "values": ["3,98", "4,21", "4,43", "4,64"]
+          },
+          {
+            "label": "Tỉ lệ thành thị (%)",
+            "values": ["41,0", "44,6", "47,8", "50,9"]
+          }
+        ]
+      }
+    },
+    "guidelines": [
+      "Nhận xét được xu hướng thay đổi của số dân",
+      "Nhận xét được xu hướng thay đổi của tỉ lệ thành thị",
+      "Sử dụng số liệu cụ thể để minh họa",
+      "Giải thích được ý nghĩa của sự thay đổi"
+    ],
+    "sampleAnswer": "Nhận xét sự thay đổi số dân và tỉ lệ thành thị của châu Á (2005-2020):\n\n1. VẾ SỐ DÂN:\n- Xu hướng: Tăng liên tục và đều đặn\n- Số liệu cụ thể:\n  + Năm 2005: 3,98 tỉ người\n  + Năm 2010: 4,21 tỉ người (tăng 0,23 tỉ)\n  + Năm 2015: 4,43 tỉ người (tăng 0,22 tỉ)\n  + Năm 2020: 4,64 tỉ người (tăng 0,21 tỉ)\n- Tổng tăng: 0,66 tỉ người trong 15 năm\n\n2. VỀ TỈ LỆ THÀNH THỊ:\n- Xu hướng: Tăng mạnh và liên tục\n- Số liệu cụ thể:\n  + Năm 2005: 41,0%\n  + Năm 2010: 44,6% (tăng 3,6%)\n  + Năm 2015: 47,8% (tăng 3,2%)\n  + Năm 2020: 50,9% (tăng 3,1%)\n- Tổng tăng: 9,9% trong 15 năm\n- Năm 2020: Lần đầu tiên vượt ngưỡng 50%\n\n3. Ý NGHĨA:\n- Phản ánh sự phát triển kinh tế - xã hội mạnh mẽ của châu Á\n- Quá trình đô thị hóa diễn ra nhanh chóng\n- Dân cư từ nông thôn di chuyển vào thành thị để tìm kiếm cơ hội việc làm\n- Nâng cao chất lượng cuộc sống, hiện đại hóa đất nước\n- Đặt ra thách thức về hạ tầng đô thị, môi trường, an sinh xã hội",
+    "rubric": {
+      "excellent": "0.9-1.0 điểm: Nhận xét đầy đủ cả 2 chỉ số với số liệu cụ thể, có tính toán mức tăng, phân tích ý nghĩa sâu sắc",
+      "good": "0.7-0.8 điểm: Nhận xét được cả 2 chỉ số với số liệu, có ý nghĩa cơ bản",
+      "fair": "0.5-0.6 điểm: Nhận xét được 1-2 chỉ số nhưng chưa đầy đủ số liệu hoặc thiếu ý nghĩa",
+      "poor": "0-0.4 điểm: Nhận xét sơ sài, không dùng số liệu, không có ý nghĩa"
+    }
+  }
+]

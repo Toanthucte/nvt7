@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Test LaTeX</title>
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <script
+      id="MathJax-script"
+      async
+      src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+    ></script>
+    <script>
+      window.MathJax = {
+        tex: {
+          inlineMath: [
+            ['$', '$'],
+            ['\\(', '\\)'],
+          ],
+          displayMath: [
+            ['$$', '$$'],
+            ['\\[', '\\]'],
+          ],
+        },
+      }
+    </script>
+  </head>
+  <body>
+    <h1>Test LaTeX Rendering</h1>
+
+    <h2>Inline Math:</h2>
+    <p>Phân tử clo: $Cl_2$</p>
+    <p>Canxi cacbonat: $CaCO_3$</p>
+    <p>Nhôm oxit: $Al_2O_3$</p>
+
+    <h2>Dynamic Content Test:</h2>
+    <div id="dynamic-content"></div>
+
+    <script>
+      // Test dynamic content
+      const content = `
+            <p>Công thức động: $H_2SO_4$</p>
+            <p>Phương trình: $2H_2 + O_2 \\rightarrow 2H_2O$</p>
+        `
+
+      document.getElementById('dynamic-content').innerHTML = content
+
+      // Re-render MathJax after adding content
+      if (window.MathJax) {
+        MathJax.typesetPromise([
+          document.getElementById('dynamic-content'),
+        ]).catch((err) => console.log('MathJax error:', err))
+      }
+    </script>
+  </body>
+</html>

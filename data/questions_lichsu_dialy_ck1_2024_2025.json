@@ -1,0 +1,139 @@
+[
+  {
+    "id": 1,
+    "question": "Chính sách \"lấy ruộng đất công và ruộng đất bỏ hoang chia cho nông dân\" thực hiện dưới thời Đường được gọi là …….",
+    "choices": ["quân điền", "tính điền", "tịch điền", "diện điền"],
+    "answer": 0,
+    "explanation": "Chính sách 'quân điền' (均田) là chính sách đất đai quan trọng dưới thời nhà Đường (thực ra bắt đầu từ đời Bắc Ngụy và được nhà Đường tiếp tục), trong đó nhà nước lấy ruộng đất công và ruộng đất bỏ hoang chia đều cho nông dân canh tác theo hộ khẩu, nhằm phát triển nông nghiệp, tăng thu thuế và ổn định xã hội. Đây là nền tảng cho chế độ tô dung điều (租庸調) - hệ thống thuế khóa thời Đường."
+  },
+  {
+    "id": 2,
+    "question": "Nội dung nào sau đây *không phải* là biểu hiện của sự phát triển thịnh vượng dưới thời Đường?",
+    "choices": [
+      "Nhà nước mở rộng khoa cử để tuyển chọn nhân tài.",
+      "Bộ máy nhà nước được cũng cố, hoàn thiện, lãnh thổ mở rộng.",
+      "Thương nghiệp bị hạn chế, cấm buôn bán bằng đường biển.",
+      "Con đường tơ lụa trở thành tuyến đường buôn bán quốc tế."
+    ],
+    "answer": 2,
+    "explanation": "Đáp án C là sai vì dưới thời Đường, thương nghiệp phát triển mạnh mẽ, không bị hạn chế. Các đáp án A, B, D đều là biểu hiện của sự thịnh vượng thời Đường."
+  },
+  {
+    "id": 3,
+    "question": "Nội dung nào sau đây *không phải* là thành tựu đánh trường lính thổ của nhà Đường?",
+    "choices": [
+      "Xâm lược Triều Tiên.",
+      "Cưỡng có chế độ cai trị ở An Nam.",
+      "Đem quân chiếm nội Mông, chính phục Tây Vực.",
+      "Mở nhiều khoa thi tuyển chọn nhân tài làm quan."
+    ],
+    "answer": 3,
+    "explanation": "Đáp án D không phải là thành tựu mở rộng lãnh thổ mà là chính sách tuyển dụng nhân tài trong nước. Các đáp án A, B, C đều là hoạt động quân sự mở rộng lãnh thổ của nhà Đường."
+  },
+  {
+    "id": 4,
+    "question": "Nội dung nào sau đây diễn tả sự phát triển của thương nghiệp Trung Quốc dưới thời Đường?",
+    "choices": [
+      "Hình thành những khu vực sản xuất chuyên môn hóa.",
+      "Lấy ruộng đất công và ruộng đất bị bỏ hoang chia cho nông dân.",
+      "Nhà nước hạn chế giao thương, cấm buôn bán bằng đường biển.",
+      "Con đường tơ lụa trở thành tuyến đường buôn bán quốc tế."
+    ],
+    "answer": 3,
+    "explanation": "**Con đường tơ lụa trở thành tuyến đường buôn bán quốc tế** là nội dung TRỰC TIẾP diễn tả sự phát triển của THƯƠNG NGHIỆP thời Đường. Đây là HOẠT ĐỘNG THƯƠNG MẠI quốc tế, là biểu hiện rõ ràng nhất của thương nghiệp thịnh vượng. Đáp án A (khu vực sản xuất chuyên môn hóa) mặc dù liên quan đến thương nghiệp nhưng chủ yếu nói về **SẢN XUẤT**, không phải về **BUÔN BÁN**. Theo định nghĩa, thương nghiệp = hoạt động mua bán, trao đổi hàng hóa. Con đường tơ lụa phát triển mạnh → chứng tỏ hoạt động buôn bán phát triển mạnh. Đáp án B là nông nghiệp, đáp án C sai hoàn toàn."
+  },
+  {
+    "id": 5,
+    "question": "Lãnh thổ Ấn Độ hiện nay thuộc khu vực nào?",
+    "choices": ["Đông Nam Á.", "Nam Á.", "Tây Nam Á.", "Tây Á."],
+    "answer": 1,
+    "explanation": "Ấn Độ nằm ở khu vực Nam Á (South Asia), còn được gọi là tiểu lục địa Ấn Độ, bao gồm các nước như Ấn Độ, Pakistan, Bangladesh, Nepal, Bhutan, Sri Lanka."
+  },
+  {
+    "id": 6,
+    "question": "Dãy núi nào ngăn cách Ấn Độ với các vùng đất bên ngoài?",
+    "choices": ["Dãy Himalaya.", "Dãy Andes.", "Dãy Alp.", "Dãy Danxia."],
+    "answer": 0,
+    "explanation": "Dãy Himalaya là dãy núi cao nhất thế giới, ngăn cách Ấn Độ với phần còn lại của châu Á, tạo thành rào cản tự nhiên về phía Bắc. Dãy Andes ở Nam Mỹ, dãy Alp ở châu Âu, dãy Danxia ở Trung Quốc."
+  },
+  {
+    "id": 7,
+    "question": "Vương quốc Gúp-ta bị chia nhỏ và kết thúc vào thời gian nào?",
+    "choices": ["Năm 232 TCN.", "Năm 320.", "Năm 535.", "Năm 1206."],
+    "answer": 2,
+    "explanation": "Vương quốc Gúp-ta kết thúc vào năm 535 sau khi bị chia nhỏ do suy yếu và bị người Hung xâm lược. Năm 320 là thời điểm thành lập vương quốc Gúp-ta."
+  },
+  {
+    "id": 8,
+    "question": "Ngành nghề nào dưới thời Gúp-ta đã đạt định cao so với thế giới lúc bấy giờ?",
+    "choices": ["Nghề trồng trọt.", "Nghề chăn nuôi.", "Nghề luyện kim.", "Nghề làm gốm."],
+    "answer": 2,
+    "explanation": "Nghề luyện kim (chế tác kim loại) đạt trình độ cao dưới thời Gúp-ta, đặc biệt là kỹ thuật chế tạo sắt không gỉ. Cột sắt Delhi là minh chứng nổi tiếng, đứng hơn 1600 năm mà không bị gỉ."
+  },
+  {
+    "id": 9,
+    "question": "Châu Á tiếp giáp với hai châu lục nào?",
+    "choices": ["Châu Âu và Châu Mỹ.", "Châu Mỹ và Châu Phi.", "Châu Âu và Châu Nam Cực.", "Châu Âu và Châu Phi."],
+    "answer": 3,
+    "explanation": "Châu Á tiếp giáp với châu Âu ở phía Tây (qua dãy Ural) và châu Phi ở phía Tây Nam (qua kênh đào Suez). Châu Á không tiếp giáp trực tiếp với châu Mỹ hay châu Nam Cực."
+  },
+  {
+    "id": 10,
+    "question": "Châu Á có diện tích đứng thứ mấy trong các châu lục trên thế giới?",
+    "choices": ["Thứ nhất.", "Thứ hai.", "Thứ ba.", "Thứ tư."],
+    "answer": 0,
+    "explanation": "Châu Á là châu lục lớn nhất thế giới với diện tích khoảng 44,58 triệu km², chiếm khoảng 30% diện tích đất liền của Trái Đất."
+  },
+  {
+    "id": 11,
+    "question": "Nhận xét nào sau đây đúng về quy mô dân số châu Á?",
+    "choices": [
+      "Dân cư thưa thớt.",
+      "Dân cư phân bố đều.",
+      "Đông dân nhất thế giới.",
+      "Gia tăng dân số ngang mức trung bình thế giới."
+    ],
+    "answer": 2,
+    "explanation": "Châu Á là châu lục đông dân nhất thế giới với hơn 4,6 tỉ người (năm 2020), chiếm khoảng 60% dân số toàn cầu. Dân cư phân bố không đều, tập trung chủ yếu ở các đồng bằng ven biển."
+  },
+  {
+    "id": 12,
+    "question": "Năm 2020, số dân của Châu Á là …….",
+    "choices": ["1,44 tỉ người", "4,64 tỉ người", "1,39 tỉ người", "1,3 tỉ người"],
+    "answer": 1,
+    "explanation": "Theo số liệu thống kê, năm 2020 châu Á có 4,64 tỉ người (không tính dân số Liên bang Nga thuộc châu Á). Đây là con số được nêu trong bảng dữ liệu của đề thi."
+  },
+  {
+    "id": 13,
+    "question": "Năm 2020, tỉ lệ dân thành thị của Châu Á là …….",
+    "choices": ["70%", "40,6%", "55,9%", "50,9%"],
+    "answer": 3,
+    "explanation": "Năm 2020, tỉ lệ dân thành thị của châu Á đạt 50,9%, cho thấy quá trình đô thị hóa đang diễn ra mạnh mẽ. Con số này được nêu trong bảng số liệu ở câu 4 phần tự luận."
+  },
+  {
+    "id": 14,
+    "question": "Các đô thị lớn của Châu Á thường tập trung tại khu vực nào?",
+    "choices": ["Khu vực núi cao.", "Khu vực ven biển.", "Khu vực đồng bằng.", "Khu vực cao nguyên."],
+    "answer": 2,
+    "explanation": "Các đô thị lớn của châu Á thường tập trung tại **khu vực đồng bằng** vì đây là địa hình bằng phẳng, thuận lợi nhất cho xây dựng đô thị, phát triển dân cư, nông nghiệp và giao thông. Các đô thị lớn như: Bắc Kinh (đồng bằng Hoa Bắc), Thượng Hải (đồng bằng sông Trường Giang), Tokyo (đồng bằng Kantō), Bangkok (đồng bằng Chao Phraya), Hà Nội (đồng bằng sông Hồng), Jakarta (đồng bằng Java), Manila (đồng bằng Luzon). Lưu ý: Nhiều đồng bằng lớn nằm ven biển hoặc ven sông, nên đô thị vừa có lợi thế đồng bằng vừa có lợi thế giao thương đường thủy. Tuy nhiên, yếu tố **địa hình đồng bằng** là điều kiện CƠ BẢN và QUAN TRỌNG NHẤT để hình thành đô thị lớn."
+  },
+  {
+    "id": 15,
+    "question": "Lãnh thổ Đông Nam Á bao gồm mấy bộ phận nào?",
+    "choices": [
+      "Phần đất liền và các quần đảo.",
+      "Phần đất liền và hải đảo.",
+      "Phần quần đảo và bán đảo.",
+      "Phần quần đảo và bán đảo."
+    ],
+    "answer": 0,
+    "explanation": "Đông Nam Á bao gồm hai phần: phần đất liền (bán đảo Đông Dương) và phần các quần đảo (quần đảo Mã Lai). Phần đất liền gồm Myanmar, Thái Lan, Lào, Việt Nam, Campuchia; phần quần đảo gồm Indonesia, Philippines, Malaysia, Singapore, Brunei, Đông Timor."
+  },
+  {
+    "id": 16,
+    "question": "Đông Nam Á có bao nhiêu kiểu khí hậu?",
+    "choices": ["1 kiểu khí hậu.", "2 kiểu khí hậu.", "3 kiểu khí hậu.", "4 kiểu khí hậu."],
+    "answer": 1,
+    "explanation": "Đông Nam Á có 2 kiểu khí hậu chính: (1) Khí hậu xích đạo (ở khu vực gần xích đạo như Indonesia, Malaysia, Singapore, Philippines phía nam); (2) Khí hậu nhiệt đới gió mùa (ở các nước bán đảo Đông Dương như Việt Nam, Thái Lan, Myanmar, Campuchia, Lào và phần bắc Philippines). Sự phân chia này dựa trên vị trí địa lý so với xích đạo và chế độ gió mùa."
+  }
+]

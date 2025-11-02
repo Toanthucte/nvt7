@@ -1,0 +1,190 @@
+[
+  {
+    "id": 1,
+    "question": "Số electron ở lớp ngoài cùng của nguyên tử sodium và chlorine lần lượt là:",
+    "choices": ["1 và 7", "3 và 9", "9 và 15", "3 và 7"],
+    "answer": 0
+  },
+  {
+    "id": 2,
+    "question": "Hợp chất là:",
+    "choices": [
+      "Chất tạo nên từ một nguyên tố hóa học.",
+      "Chất tạo từ hai hay nhiều nguyên tố hóa học.",
+      "Chất tạo hai nguyên tố kim loại trộn lẫn.",
+      "Chất tạo từ các nguyên tố kim loại và phi kim."
+    ],
+    "answer": 1
+  },
+  {
+    "id": 3,
+    "question": "Khối lượng nguyên tử là khối lượng của một nguyên tử được tính bằng đơn vị:",
+    "choices": ["Gam.", "Kilôgam.", "Amu.", "Cả 3 đơn vị trên."],
+    "answer": 2
+  },
+  {
+    "id": 4,
+    "question": "Phân tử sodium chloride thành phần chính là sodium chloride. Phân tử sodium chloride gồm 1 nguyên tử sodium và 1 nguyên tử chlorine. Khối lượng của một phân tử của sodium chloride bằng:",
+    "choices": ["27 amu.", "44 amu.", "52.5 amu.", "58.5 amu."],
+    "answer": 3
+  },
+  {
+    "id": 5,
+    "question": "Chất đơn chất là:",
+    "choices": [
+      "Chất tạo nên từ một nguyên tố hóa học.",
+      "Chất luôn có tên gọi trùng với nguyên tố hóa học.",
+      "Chất tạo nên từ nguyên tố kim loại.",
+      "Chất tạo nên từ nguyên tố hóa học phi kim."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 6,
+    "question": "Công thức hóa học của một số chất được viết như sau: $Cl_2$, $CaCl_2$, $Mg$, $P$, $CaO$, $H_2$. Số đơn chất và hợp chất là:",
+    "choices": [
+      "Có 3 đơn chất, 3 hợp chất.",
+      "Có 4 đơn chất, 2 hợp chất.",
+      "Có 2 đơn chất, 4 hợp chất.",
+      "Có 6 hợp chất, 2 đơn chất."
+    ],
+    "answer": 0
+  },
+  {
+    "id": 7,
+    "question": "Hạt nhân nguyên tử fluorine có 9 proton và 10 neutron. Khối lượng của nguyên tử fluorine xấp xỉ bằng:",
+    "choices": ["9 amu.", "10 amu.", "19 amu.", "28 amu."],
+    "answer": 2
+  },
+  {
+    "id": 8,
+    "question": "Một hợp chất có phân tử gồm 2 nguyên tử X và 1 nguyên tử O, khối lượng phân tử bằng 94 amu. X là nguyên tố nào?",
+    "choices": ["Mg", "K", "Na", "Al"],
+    "answer": 1
+  },
+  {
+    "id": 9,
+    "question": "Trong bảng tuần hoàn, các nguyên tố khí hiếm gồm:",
+    "choices": [
+      "He, Ne, Ar, Kr, Xe, Rn, Og",
+      "He, Ne, Ar, Xe, Rn, Og",
+      "He, Ne, Ar, Xe, Mg, Og",
+      "He, Ne, Ar, Og"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 10,
+    "question": "Công thức hóa học của aluminium oxide là $Al_2O_3$. Số lượng nguyên tố và khối lượng phân tử lần lượt là:",
+    "choices": [
+      "$Al$ và $O$; $3Al$ và $2O$; $97$ amu",
+      "$Al$ và $O$; $2Al$ và $3O$; $100$ amu",
+      "$Al$ và $O$; $2Al$ và $3O$; $102$ amu",
+      "$Al$ và $O$; $3Al$ và $2O$; $111$ amu"
+    ],
+    "answer": 2
+  },
+  {
+    "id": 11,
+    "question": "Phân tử carbon dioxide gồm 1 nguyên tử carbon và 2 nguyên tử oxygen. Carbon dioxide là:",
+    "choices": ["Đơn chất", "Hợp chất", "Hỗn hợp", "Dung dịch"],
+    "answer": 1
+  },
+  {
+    "id": 12,
+    "question": "Khí quyển Trái Đất là lớp các chất khí bao quanh và được giữ lại bởi lực hấp dẫn của Trái Đất. Thành phần khí quyển gồm có nitrogen, oxygen, argon, carbon dioxide, hơi nước và một số chất khí khác (helium, neon, methane, hydrogen, ...). Số các đơn chất có trong khí quyển là:",
+    "choices": ["3", "4", "5", "6"],
+    "answer": 2
+  },
+  {
+    "id": 13,
+    "question": "Nguyên tử calcium có 20 electron và 0 nguyên tử. Số proton là:",
+    "choices": ["2", "10", "18", "20"],
+    "answer": 3
+  },
+  {
+    "id": 14,
+    "question": "Potassium chloride là hợp chất có nhiều ứng dụng trong đời sống. Trong nông nghiệp, nó được dùng làm phân bón. Trong công nghiệp, potassium chloride được dùng làm nguyên liệu để sản xuất potassium hydroxide và kim loại potassium. Trong y học, potassium chloride được dùng để bào chế thuốc điều trị bệnh thiếu kali trong máu. Potassium chloride được tạo thành từ 2 nguyên tố K và Cl. Trong phản ứng hóa học, khi kali phản ứng với chlorine thì số nguyên tử K kết hợp với số nguyên tử Cl trong phân tử potassium chloride lần lượt là bao nhiêu?",
+    "choices": ["1K, 1Cl", "1K, 2Cl", "2K, 1Cl", "2K, 2Cl"],
+    "answer": 0
+  },
+  {
+    "id": 15,
+    "question": "Trong các phản ứng sau, chất nào là đơn chất:",
+    "choices": ["Sodium oxide", "Ozone", "Nitrogen dioxide", "Acetic acid"],
+    "answer": 1
+  },
+  {
+    "id": 16,
+    "question": "Nguyên tử magnesium thuộc nhóm IIA, khi ở trạng thái nguyên tử sẽ có xu hướng:",
+    "choices": [
+      "Nhường 2 electron",
+      "Nhận 2 electron",
+      "Nhường 3 electron",
+      "Nhận 3 electron"
+    ],
+    "answer": 0
+  },
+  {
+    "id": 17,
+    "question": "Công thức nào viết đúng:",
+    "choices": ["$MgCl_2$", "$Ca(OH)_3$", "$AlCl_2$", "$NaNO_3$"],
+    "answer": 0
+  },
+  {
+    "id": 18,
+    "question": "Tỉ lệ số nguyên tử của các nguyên tố $Ca$, $C$, $O$ trong công thức $CaCO_3$ là:",
+    "choices": ["1:1:1", "1:1:2", "1:1:3", "2:1:3"],
+    "answer": 2
+  },
+  {
+    "id": 19,
+    "question": "Trong tự nhiên, silicon dioxide có trong cát, đất sét. Công thức hóa học của silicon dioxide là:",
+    "choices": ["$SiO$", "$SiO_2$", "$SiO_3$", "$SiO_4$"],
+    "answer": 1
+  },
+  {
+    "id": 20,
+    "question": "Các kim loại kiềm trong nhóm IA đều có số electron lớp ngoài cùng là:",
+    "choices": ["1", "2", "3", "4"],
+    "answer": 0
+  },
+  {
+    "id": 21,
+    "type": "fill-in-blank",
+    "question": "Điền các từ in nghiêng vào chỗ trống phù hợp:",
+    "word_bank": ["Kim loại", "Phi kim", "Nhận", "Cho", "Nguyên tử"],
+    "parts": [
+      {
+        "text": "A. Để tạo thành ion dương thì _____ kim loại có xu hướng sẽ _____ electron, số electron lớp ngoài cùng bằng 8.",
+        "blanks": [
+          {
+            "position": 1,
+            "answer": "tử",
+            "hint": "Đơn vị cấu tạo nhỏ nhất của nguyên tố"
+          },
+          {
+            "position": 2,
+            "answer": "cho",
+            "hint": "Hành động nhường electron"
+          }
+        ]
+      },
+      {
+        "text": "B. Để tạo ion âm thì nguyên tử _____ có xu hướng sẽ _____ electron. Số electron lớp ngoài cùng bằng 8.",
+        "blanks": [
+          {
+            "position": 1,
+            "answer": "phi kim",
+            "hint": "Loại nguyên tố có xu hướng nhận electron"
+          },
+          {
+            "position": 2,
+            "answer": "nhận",
+            "hint": "Hành động thu nhận electron"
+          }
+        ]
+      }
+    ]
+  }
+]

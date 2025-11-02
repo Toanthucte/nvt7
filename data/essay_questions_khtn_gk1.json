@@ -1,0 +1,65 @@
+[
+  {
+    "id": 23,
+    "type": "essay-formula",
+    "question": "Lập công thức hóa học (CTHH) của những hợp chất tạo bởi Mg (II) và Cl (I).",
+    "elements": [
+      {
+        "symbol": "Mg",
+        "valence": 2,
+        "name": "Magie"
+      },
+      {
+        "symbol": "Cl",
+        "valence": 1,
+        "name": "Clo"
+      }
+    ],
+    "solution": {
+      "steps": [
+        "Gọi công thức tổng quát là $Mg_xCl_y$, trong đó x là số nguyên tử Mg, y là số nguyên tử Cl.",
+        "Áp dụng quy tắc hóa trị: $x \\times II = y \\times I$",
+        "Suy ra: $\\frac{x}{y} = \\frac{I}{II} = \\frac{1}{2}$",
+        "Do đó: x = 1 và y = 2",
+        "Vậy công thức hóa học là $MgCl_2$"
+      ],
+      "finalAnswer": "MgCl₂",
+      "explanation": "Mg có hóa trị II, Cl có hóa trị I. Để cân bằng điện tích, cần 1 nguyên tử Mg và 2 nguyên tử Cl."
+    }
+  },
+  {
+    "id": 24,
+    "type": "essay-percentage",
+    "question": "Tính % các nguyên tố có trong hợp chất AlCl₃.",
+    "compound": {
+      "formula": "AlCl₃",
+      "elements": [
+        {
+          "symbol": "Al",
+          "atomicMass": 27,
+          "quantity": 1
+        },
+        {
+          "symbol": "Cl",
+          "atomicMass": 35.5,
+          "quantity": 3
+        }
+      ]
+    },
+    "solution": {
+      "steps": [
+        "Tính khối lượng phân tử $AlCl_3$:",
+        "$M_{AlCl_3} = M_{Al} + 3 \\times M_{Cl} = 27 + 3 \\times 35.5 = 27 + 106.5 = 133.5$ (amu)",
+        "Tính % Al:",
+        "$\\%Al = \\frac{M_{Al} \\times số\\ nguyên\\ tử\\ Al}{M_{AlCl_3}} \\times 100\\% = \\frac{27 \\times 1}{133.5} \\times 100\\% = 20.22\\%$",
+        "Tính % Cl:",
+        "$\\%Cl = 100\\% - \\%Al = 100\\% - 20.22\\% = 79.78\\%$"
+      ],
+      "finalAnswer": {
+        "Al": "20.22%",
+        "Cl": "79.78%"
+      },
+      "verification": "Kiểm tra: 20.22% + 79.78% = 100% ✓"
+    }
+  }
+]
