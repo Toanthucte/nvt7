@@ -1,0 +1,70 @@
+<svg width="200" height="80" viewBox="0 0 200 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Gradient cho background -->
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#219ebc;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#023047;stop-opacity:1" />
+    </linearGradient>
+    
+    <!-- Gradient cho text -->
+    <linearGradient id="textGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ffffff;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#ffb703;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ffffff;stop-opacity:1" />
+    </linearGradient>
+    
+    <!-- Shadow filter -->
+    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="2" dy="2" stdDeviation="3" flood-color="#000000" flood-opacity="0.3"/>
+    </filter>
+    
+    <!-- Glow effect -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <!-- Background rounded rectangle -->
+  <rect x="5" y="5" width="190" height="70" rx="15" ry="15" 
+        fill="url(#bgGradient)" 
+        filter="url(#shadow)"/>
+  
+  <!-- Decorative elements -->
+  <circle cx="25" cy="25" r="3" fill="#ffb703" opacity="0.6"/>
+  <circle cx="175" cy="55" r="3" fill="#ffb703" opacity="0.6"/>
+  <path d="M 15 40 Q 20 35 25 40" stroke="#ffb703" stroke-width="2" fill="none" opacity="0.4"/>
+  <path d="M 175 25 Q 180 20 185 25" stroke="#ffb703" stroke-width="2" fill="none" opacity="0.4"/>
+  
+  <!-- Main text "nvt7" -->
+  <text x="100" y="52" 
+        font-family="'Montserrat', 'Arial Black', sans-serif" 
+        font-size="42" 
+        font-weight="800"
+        text-anchor="middle"
+        fill="url(#textGradient)"
+        filter="url(#glow)">
+    nvt7
+  </text>
+  
+  <!-- Underline accent -->
+  <line x1="45" y1="58" x2="155" y2="58" 
+        stroke="#ffb703" 
+        stroke-width="3" 
+        stroke-linecap="round"
+        opacity="0.8"/>
+  
+  <!-- Small subtitle -->
+  <text x="100" y="68" 
+        font-family="'Inter Tight', sans-serif" 
+        font-size="8" 
+        font-weight="500"
+        text-anchor="middle"
+        fill="#ffffff"
+        opacity="0.8">
+    GRADE 7 QUIZ SYSTEM
+  </text>
+</svg>

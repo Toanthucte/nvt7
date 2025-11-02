@@ -1,0 +1,424 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>nvt7 Logo Showcase</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    
+    body {
+      font-family: 'Inter Tight', -apple-system, sans-serif;
+      background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+      padding: 2rem;
+      min-height: 100vh;
+    }
+    
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+    
+    h1 {
+      text-align: center;
+      color: #023047;
+      font-size: 2.5rem;
+      margin-bottom: 3rem;
+      text-shadow: 2px 2px 4px rgba(0,0,0,0.1);
+    }
+    
+    .logo-grid {
+      display: grid;
+      gap: 2rem;
+      margin-bottom: 3rem;
+    }
+    
+    .logo-card {
+      background: white;
+      border-radius: 16px;
+      padding: 2rem;
+      box-shadow: 0 8px 32px rgba(0,0,0,0.1);
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+    
+    .logo-card:hover {
+      transform: translateY(-8px);
+      box-shadow: 0 12px 48px rgba(0,0,0,0.15);
+    }
+    
+    .logo-card h2 {
+      color: #219ebc;
+      font-size: 1.5rem;
+      margin-bottom: 1rem;
+      text-align: center;
+    }
+    
+    .logo-card p {
+      color: #6c757d;
+      text-align: center;
+      margin-bottom: 1.5rem;
+      font-size: 0.9rem;
+    }
+    
+    .logo-display {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      padding: 2rem;
+      border-radius: 12px;
+      min-height: 150px;
+    }
+    
+    .white-bg {
+      background: #ffffff;
+    }
+    
+    .gray-bg {
+      background: #f8f9fa;
+    }
+    
+    .dark-bg {
+      background: #2c3e50;
+    }
+    
+    .gradient-bg {
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    }
+    
+    .logo-display img {
+      max-width: 100%;
+      height: auto;
+    }
+    
+    .specs {
+      margin-top: 1.5rem;
+      padding: 1rem;
+      background: #f8f9fa;
+      border-radius: 8px;
+      border-left: 4px solid #219ebc;
+    }
+    
+    .specs h3 {
+      color: #023047;
+      font-size: 1rem;
+      margin-bottom: 0.5rem;
+    }
+    
+    .specs ul {
+      list-style: none;
+      padding-left: 0;
+    }
+    
+    .specs li {
+      color: #495057;
+      font-size: 0.85rem;
+      margin: 0.3rem 0;
+      padding-left: 1.5rem;
+      position: relative;
+    }
+    
+    .specs li:before {
+      content: "✓";
+      position: absolute;
+      left: 0;
+      color: #06d6a0;
+      font-weight: bold;
+    }
+    
+    .usage-section {
+      background: white;
+      border-radius: 16px;
+      padding: 2rem;
+      box-shadow: 0 8px 32px rgba(0,0,0,0.1);
+      margin-top: 2rem;
+    }
+    
+    .usage-section h2 {
+      color: #023047;
+      margin-bottom: 1.5rem;
+      font-size: 1.8rem;
+    }
+    
+    .code-block {
+      background: #2c3e50;
+      color: #ecf0f1;
+      padding: 1.5rem;
+      border-radius: 8px;
+      overflow-x: auto;
+      margin: 1rem 0;
+      font-family: 'Courier New', monospace;
+      font-size: 0.9rem;
+      line-height: 1.6;
+    }
+    
+    .code-block code {
+      color: #3498db;
+    }
+    
+    .download-btn {
+      display: inline-block;
+      background: linear-gradient(135deg, #219ebc, #023047);
+      color: white;
+      padding: 1rem 2rem;
+      border-radius: 8px;
+      text-decoration: none;
+      font-weight: 600;
+      margin: 0.5rem;
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+      box-shadow: 0 4px 12px rgba(33, 158, 188, 0.3);
+    }
+    
+    .download-btn:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 6px 20px rgba(33, 158, 188, 0.4);
+    }
+    
+    .color-palette {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+      gap: 1rem;
+      margin: 1.5rem 0;
+    }
+    
+    .color-box {
+      text-align: center;
+      padding: 1rem;
+      border-radius: 8px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+    
+    .color-swatch {
+      width: 100%;
+      height: 80px;
+      border-radius: 6px;
+      margin-bottom: 0.5rem;
+    }
+    
+    .color-name {
+      font-weight: 600;
+      color: #2c3e50;
+      font-size: 0.9rem;
+    }
+    
+    .color-code {
+      color: #6c757d;
+      font-size: 0.8rem;
+      font-family: monospace;
+    }
+    
+    @media (max-width: 768px) {
+      h1 {
+        font-size: 1.8rem;
+      }
+      
+      .logo-card, .usage-section {
+        padding: 1.5rem;
+      }
+      
+      .code-block {
+        font-size: 0.8rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>🎨 nvt7 Logo Design System</h1>
+    
+    <div class="logo-grid">
+      <!-- Logo chính -->
+      <div class="logo-card">
+        <h2>📌 Logo Chính (Full)</h2>
+        <p>Sử dụng cho header, banner, và các vị trí nổi bật</p>
+        
+        <div class="logo-display white-bg">
+          <img src="assets/logo.svg" alt="nvt7 Logo Full">
+        </div>
+        
+        <div class="specs">
+          <h3>Thông số kỹ thuật:</h3>
+          <ul>
+            <li>Kích thước: 200x80px (tỷ lệ 2.5:1)</li>
+            <li>Format: SVG (vector, scale vô hạn)</li>
+            <li>Gradient: #219ebc → #023047</li>
+            <li>Text gradient: White → #ffb703 → White</li>
+            <li>Effects: Drop shadow, glow, decorative elements</li>
+            <li>Font: Montserrat 800</li>
+          </ul>
+        </div>
+        
+        <div style="text-align: center; margin-top: 1rem;">
+          <a href="assets/logo.svg" class="download-btn" download>📥 Download</a>
+        </div>
+      </div>
+      
+      <!-- Favicon -->
+      <div class="logo-card">
+        <h2>🔖 Favicon (Icon)</h2>
+        <p>Biểu tượng tab trình duyệt và app icon</p>
+        
+        <div class="logo-display gray-bg">
+          <img src="assets/favicon.svg" alt="nvt7 Favicon" style="width: 64px; height: 64px;">
+        </div>
+        
+        <div class="specs">
+          <h3>Thông số kỹ thuật:</h3>
+          <ul>
+            <li>Kích thước: 64x64px (vuông)</li>
+            <li>Format: SVG</li>
+            <li>Shape: Circle với gradient background</li>
+            <li>Minimalist design</li>
+            <li>Accent dot: #ffb703</li>
+          </ul>
+        </div>
+        
+        <div style="text-align: center; margin-top: 1rem;">
+          <a href="assets/favicon.svg" class="download-btn" download>📥 Download</a>
+        </div>
+      </div>
+      
+      <!-- Logo compact -->
+      <div class="logo-card">
+        <h2>📱 Logo Compact</h2>
+        <p>Phiên bản gọn cho mobile và không gian hạn chế</p>
+        
+        <div class="logo-display white-bg">
+          <img src="assets/logo-compact.svg" alt="nvt7 Logo Compact">
+        </div>
+        
+        <div class="specs">
+          <h3>Thông số kỹ thuật:</h3>
+          <ul>
+            <li>Kích thước: 120x50px (tỷ lệ 2.4:1)</li>
+            <li>Format: SVG</li>
+            <li>Responsive-friendly</li>
+            <li>Simplified decorations</li>
+            <li>Perfect for mobile headers</li>
+          </ul>
+        </div>
+        
+        <div style="text-align: center; margin-top: 1rem;">
+          <a href="assets/logo-compact.svg" class="download-btn" download>📥 Download</a>
+        </div>
+      </div>
+    </div>
+    
+    <!-- Color Palette -->
+    <div class="usage-section">
+      <h2>🎨 Bảng màu Brand</h2>
+      <div class="color-palette">
+        <div class="color-box">
+          <div class="color-swatch" style="background: #219ebc;"></div>
+          <div class="color-name">Primary</div>
+          <div class="color-code">#219ebc</div>
+        </div>
+        <div class="color-box">
+          <div class="color-swatch" style="background: #023047;"></div>
+          <div class="color-name">Secondary</div>
+          <div class="color-code">#023047</div>
+        </div>
+        <div class="color-box">
+          <div class="color-swatch" style="background: #ffb703;"></div>
+          <div class="color-name">Accent</div>
+          <div class="color-code">#ffb703</div>
+        </div>
+        <div class="color-box">
+          <div class="color-swatch" style="background: #ffffff; border: 1px solid #ddd;"></div>
+          <div class="color-name">White</div>
+          <div class="color-code">#ffffff</div>
+        </div>
+      </div>
+    </div>
+    
+    <!-- Usage Guidelines -->
+    <div class="usage-section">
+      <h2>📖 Hướng dẫn sử dụng</h2>
+      
+      <h3 style="color: #219ebc; margin-top: 1.5rem;">1. Trong HTML</h3>
+      <div class="code-block">
+&lt;!-- Logo header --&gt;
+&lt;img src="assets/logo.svg" alt="nvt7 Logo" class="logo" /&gt;
+
+&lt;!-- Favicon --&gt;
+&lt;link rel="icon" type="image/svg+xml" href="assets/favicon.svg" /&gt;
+
+&lt;!-- Logo compact (mobile) --&gt;
+&lt;img src="assets/logo-compact.svg" alt="nvt7" class="logo-mobile" /&gt;
+      </div>
+      
+      <h3 style="color: #219ebc; margin-top: 1.5rem;">2. Trong CSS</h3>
+      <div class="code-block">
+.logo {
+  height: 60px;
+  width: auto;
+  transition: transform 0.3s ease;
+}
+
+.logo:hover {
+  transform: scale(1.05) rotate(2deg);
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .logo {
+    height: 50px;
+  }
+}
+      </div>
+      
+      <h3 style="color: #219ebc; margin-top: 1.5rem;">3. Best Practices</h3>
+      <ul style="padding-left: 2rem; color: #495057; line-height: 1.8;">
+        <li>✅ <strong>Luôn dùng SVG</strong> thay vì PNG/JPG để đảm bảo chất lượng trên mọi màn hình</li>
+        <li>✅ <strong>Khoảng cách tối thiểu</strong> xung quanh logo: 15px</li>
+        <li>✅ <strong>Không thay đổi tỷ lệ</strong> (aspect ratio) của logo</li>
+        <li>✅ <strong>Không thay đổi màu</strong> gradient trong logo</li>
+        <li>✅ <strong>Background tối thiểu:</strong> White hoặc light colors</li>
+        <li>❌ Không overlay text lên logo</li>
+        <li>❌ Không stretch hoặc skew logo</li>
+      </ul>
+      
+      <h3 style="color: #219ebc; margin-top: 1.5rem;">4. Logo Variations</h3>
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1rem; margin-top: 1rem;">
+        <div class="logo-display white-bg">
+          <img src="assets/logo.svg" alt="Logo on white">
+        </div>
+        <div class="logo-display gray-bg">
+          <img src="assets/logo.svg" alt="Logo on gray">
+        </div>
+        <div class="logo-display dark-bg">
+          <img src="assets/logo.svg" alt="Logo on dark">
+        </div>
+      </div>
+    </div>
+    
+    <!-- Integration Example -->
+    <div class="usage-section">
+      <h2>🚀 Ví dụ tích hợp thực tế</h2>
+      <p style="color: #6c757d; margin-bottom: 1.5rem;">Logo đã được tích hợp vào header của website chính:</p>
+      
+      <div style="background: #219ebc; padding: 2rem; border-radius: 12px; text-align: center;">
+        <div style="display: flex; align-items: center; justify-content: center; gap: 1.5rem; flex-wrap: wrap;">
+          <img src="assets/logo.svg" alt="nvt7 Logo" style="height: 60px;">
+          <div style="text-align: left; color: white;">
+            <h1 style="margin: 0; font-size: 2rem; color: white;">Đến hẹn lại lên - Lớp 7</h1>
+          </div>
+        </div>
+      </div>
+      
+      <p style="margin-top: 1.5rem; text-align: center; color: #219ebc; font-weight: 600;">
+        ✨ Xem live tại: <a href="index.html" style="color: #023047; text-decoration: underline;">index.html</a>
+      </p>
+    </div>
+    
+    <div style="text-align: center; margin: 3rem 0; padding: 2rem; background: white; border-radius: 16px; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
+      <h3 style="color: #023047; margin-bottom: 1rem;">🎉 Logo đã sẵn sàng sử dụng!</h3>
+      <p style="color: #6c757d; margin-bottom: 1.5rem;">Tất cả logo đã được tối ưu hóa cho web và mobile</p>
+      <a href="index.html" class="download-btn">🏠 Quay về trang chính</a>
+    </div>
+  </div>
+</body>
+</html>
